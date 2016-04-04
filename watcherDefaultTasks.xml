@@ -1,0 +1,42 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="-o /home/michal/www/contentking/build/api -t api" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="*" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="trimmer api" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$ProjectFileDir$/tools/build/trimmer-to-directory.sh" />
+      <option name="scopeName" value="api" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="-o /home/michal/www/contentking/build/metacluster -t metacluster" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="*" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="trimmer metacluster" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$ProjectFileDir$/tools/build/trimmer-to-directory.sh" />
+      <option name="scopeName" value="metacluster" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>
