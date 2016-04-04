@@ -1,0 +1,23 @@
+<templateSet group="user">
+  <template name="cbt" value="{contentblock title}$END${/contentblock}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cb" value="{contentblock}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ecb" value="{/contentblock}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

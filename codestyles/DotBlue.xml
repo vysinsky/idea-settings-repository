@@ -1,0 +1,44 @@
+<code_scheme name="DotBlue">
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_TEXT_WRAP" value="0" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="UPPER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="UPPER_CASE_NULL_CONST" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="KEYWORD_CASE" value="2" />
+  </SqlCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="3" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="neon">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
