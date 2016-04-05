@@ -1,4 +1,8 @@
 <application>
+  <component name="DiffManager">
+    <filesTool value="/usr/bin/meld" newValue="/usr/bin/meld" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -11,6 +15,15 @@
         <PlaceSettings />
       </entry>
     </option>
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="false" />
+    <option name="DIFF_DEFAULT" value="false" />
+    <option name="DIFF_EXE_PATH" value="/usr/bin/meld" />
+    <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
+    <option name="MERGE_ENABLED" value="false" />
+    <option name="MERGE_EXE_PATH" value="" />
+    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4" />
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
