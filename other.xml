@@ -79,7 +79,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/bin/node">
-      <version-cache version="5.8.0" last-modified="1457491908000" />
+      <version-cache version="5.10.0" last-modified="1459474957000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="5.8.0" last-modified="1458050876000" />
