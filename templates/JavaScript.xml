@@ -1,11 +1,11 @@
 <templateSet group="JavaScript">
-  <template name="ract" value="it('$ACTION_NAME$ action should $WHAT_SHOULD_DO$', () =&gt; {&#10;&#9;let action = {&#10;&#9;&#9;type: $ACTION_NAME$,&#10;&#9;&#9;$ACTION_DATA$&#10;&#9;};&#10;&#10;&#9;let initialState = Immutable.fromJS({&#10;&#9;&#9;$INITIAL_STATE$&#10;&#9;});&#10;&#9;deepFreeze(initialState);&#10;&#10;&#9;let expectedState = Immutable.fromJS({&#10;&#9;&#9;$EXPECTED_STATE$&#10;&#9;});&#10;&#10;&#9;assert.deepEqual($REDUCER_FUNCTION$$END$(initialState, action).toJS(), expectedState.toJS());&#10;});" description="Reducer action test" toReformat="true" toShortenFQNames="true">
+  <template name="ract" value="it('$ACTION_NAME$ action should $WHAT_SHOULD_DO$', () =&gt; {&#10;&#9;let action = {&#10;&#9;&#9;type: $ACTION_NAME$,&#10;&#9;&#9;$ACTION_DATA$&#10;&#9;};&#10;&#10;&#9;let initialState = Immutable.fromJS({&#10;&#9;&#9;$INITIAL_STATE$&#10;&#9;});&#10;&#10;&#9;assert.deepEqual(&#10;&#9;&#9;$REDUCER_FUNCTION$(initialState, action).toJS(),&#10;&#9;&#9;{&#10;&#9;&#9;    $EXPECTED_STATE$$END$&#10;&#9;&#9;}&#10;&#9;)&#10;});" description="Reducer action test" toReformat="true" toShortenFQNames="true">
     <variable name="ACTION_NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="WHAT_SHOULD_DO" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ACTION_DATA" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="INITIAL_STATE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="EXPECTED_STATE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="REDUCER_FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED_STATE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
