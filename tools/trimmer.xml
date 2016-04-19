@@ -1,23 +1,23 @@
 <toolSet name="trimmer">
   <tool name="trim metacluster" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/tools/build/trimmer-to-directory.sh" />
+      <option name="COMMAND" value="$USER_HOME$/www/contentking/codebase/tools/build/trimmer-to-directory.sh" />
       <option name="PARAMETERS" value="-o /home/michal/www/contentking/build/metacluster -t metacluster" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/www/contentking/codebase" />
     </exec>
   </tool>
   <tool name="trim engine" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/tools/build/trimmer-to-directory.sh" />
+      <option name="COMMAND" value="$USER_HOME$/www/contentking/codebase/tools/build/trimmer-to-directory.sh" />
       <option name="PARAMETERS" value="-o /home/michal/www/contentking/build/engine -t engine" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/www/contentking/codebase" />
     </exec>
   </tool>
   <tool name="trim api" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/tools/build/trimmer-to-directory.sh" />
+      <option name="COMMAND" value="$USER_HOME$/www/contentking/codebase/tools/build/trimmer-to-directory.sh" />
       <option name="PARAMETERS" value="-o /home/michal/www/contentking/build/api -t api" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/www/contentking/codebase" />
     </exec>
   </tool>
 </toolSet>
