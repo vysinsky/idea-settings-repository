@@ -78,12 +78,13 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/bin/node">
-      <version-cache version="5.10.1" last-modified="1459892691000" />
-    </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="5.10.1" last-modified="1460966443000" />
+      <version-cache last-modified="0" />
       <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="5.11.0" last-modified="1461459036000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="PhpRefactoringSettings">
