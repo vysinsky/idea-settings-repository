@@ -3,7 +3,6 @@
     <option name="customScope" value="Project 'codebase'" />
     <option name="defaultScopeName" value="Project 'codebase'" />
     <option name="SEARCH_SCOPE" value="Project 'codebase'" />
-    <option name="FILE_MASK" value="ui.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
