@@ -83,7 +83,7 @@
       <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="/usr/bin/node">
-      <version-cache version="5.11.0" last-modified="1461459036000" />
+      <version-cache version="5.11.1" last-modified="1462511047000" />
       <npm-package value="/usr/lib/node_modules/npm" />
     </local-interpreter>
   </component>
