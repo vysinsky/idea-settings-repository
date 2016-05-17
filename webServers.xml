@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="7d17181a-0dbe-4be6-9c8c-b522afeeafe5" name="staging_api" url="http://sav1-brno.contentking.io">
+        <fileTransfer host="sav1-brno.contentking.io" port="22" privateKey="$USER_HOME$/.ssh/contentking_id_rsa" rootFolder="/data/api" accessType="SFTP" username="mvysinsky" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
