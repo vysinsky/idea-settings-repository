@@ -5,7 +5,6 @@
     <variable name="METHOD" expression="classNameComplete()" defaultValue="Get" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="grp" value="$$$VARIABLE_NAME$ = $request-&gt;getParameter('$PARAMETER_NAME$');" description="get request parameter" toReformat="true" toShortenFQNames="true">
