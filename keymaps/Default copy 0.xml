@@ -24,6 +24,15 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="Git.Rebase">
+    <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="r" />
+  </action>
+  <action id="Git.Rebase.Abort">
+    <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="a" />
+  </action>
+  <action id="Git.Rebase.Continue">
+    <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="c" />
+  </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>

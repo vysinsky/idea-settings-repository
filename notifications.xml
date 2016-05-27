@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Upsource" displayType="NONE" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
   </component>
 </application>
