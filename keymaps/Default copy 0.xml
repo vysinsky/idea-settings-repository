@@ -75,7 +75,6 @@
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
   <action id="emacsIDEAs.AceJump">
-    <keyboard-shortcut first-keystroke="meta j" />
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
 </keymap>
