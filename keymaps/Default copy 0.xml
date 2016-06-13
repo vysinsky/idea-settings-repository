@@ -2,6 +2,9 @@
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="alt #1000159" />
   </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt #1000161" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt plus" />
   </action>
