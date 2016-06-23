@@ -77,6 +77,7 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="context.load" />
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
