@@ -82,11 +82,12 @@
           <option name="url" value="git@github.com:facebook/react-devtools.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:contentking/presentations" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/clones" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_WHITESPACES_IN_LST" value="true" />
+    <option name="cloneParentDir" value="$USER_HOME$/www" />
   </component>
 </application>
