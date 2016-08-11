@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="543c6967-6f46-451a-884c-42412c8ac8be" name="Horokolo" url="http://www.horokolo.cz">
-        <fileTransfer host="horokolo.cz" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/sites/horokolo" accessType="SFTP" username="michal" keyPair="true">
+        <fileTransfer host="horokolo.cz" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/sites/horokolo" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="7d17181a-0dbe-4be6-9c8c-b522afeeafe5" name="staging_api" url="http://sav1-brno.contentking.io">
-        <fileTransfer host="sav1-brno.contentking.io" port="22" privateKey="$USER_HOME$/.ssh/contentking_id_rsa" rootFolder="/data/api" accessType="SFTP" username="mvysinsky" keyPair="true">
+        <fileTransfer host="sav1-brno.contentking.io" port="22" privateKey="$USER_HOME$/.ssh/contentking_id_rsa" rootFolder="/data/api" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -18,5 +18,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsKUeA//a7FSehlXUUjoOFeneU24vaEdc3Vls6Uf/GMdQg/bXaakMpXSyMupCd0Y2Ga/QsYyYVAfKQxlKO/iMnXnGieQ6n+t7IU8tFdeQVXP5mHKsFUh56Zl7yIsfToo/l4Ya7jcXsUGVlmT7UVdyvx0iM0OpZzseIdNONfsNPJ25o7GQZjltIyiKIUguYICj1qR1Js2GSfLsUX8vmEB+BL6DP92pD+Gg+JegtyIxKZN7iW+RW5q62nlUdxm0PKivpQ==</data>
   </component>
 </application>
