@@ -1,4 +1,8 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="modified">2016-09-22T08:30:33</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
