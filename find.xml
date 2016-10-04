@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.j2" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +18,7 @@
       <mask>issues.js</mask>
       <mask>ui.js</mask>
       <mask>*.js</mask>
+      <mask>*.j2</mask>
     </recentFileMasks>
   </component>
 </application>
