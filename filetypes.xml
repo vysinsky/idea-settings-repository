@@ -5,6 +5,7 @@
       <removed_mapping ext="phpt" type="Nette Tester test" />
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="call_cdn_purge" type="PLAIN_TEXT" />
+      <mapping pattern="tunnels-staging" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="latte" type="Smarty" />
     </extensionMap>
