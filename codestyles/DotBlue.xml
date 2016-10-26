@@ -48,6 +48,9 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
+  <SqlCodeStyleSettings>
+    <option name="KEYWORD_CASE" value="2" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
