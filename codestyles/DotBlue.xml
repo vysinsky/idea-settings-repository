@@ -56,6 +56,7 @@
     <option name="ALIGN_INSIDE_BINARY_EXPRESSION" value="false" />
     <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
     <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
