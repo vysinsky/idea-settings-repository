@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'codebase'" />
     <option name="defaultScopeName" value="Project 'codebase'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'codebase'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,8 +19,8 @@
       <mask>issues.js</mask>
       <mask>ui.js</mask>
       <mask>*.j2</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
