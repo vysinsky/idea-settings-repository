@@ -11,6 +11,7 @@
       <mapping pattern="run-in-docker" type="PLAIN_TEXT" />
       <mapping pattern="tunnels-staging" type="PLAIN_TEXT" />
       <mapping pattern="tunell-staging" type="PLAIN_TEXT" />
+      <mapping ext="run" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
