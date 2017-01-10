@@ -9,7 +9,7 @@
   <tool name="MySQL" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="/usr/bin/ssh" />
-      <option name="PARAMETERS" value="mvysinsky@sevb1-leasewebnl.contentking.io -L 3307:localhost:3306" />
+      <option name="PARAMETERS" value="mvysinsky@sevb4-leasewebnl.contentking.io -L 3307:localhost:3306" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
