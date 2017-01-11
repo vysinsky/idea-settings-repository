@@ -2,12 +2,14 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="*.sh.j2" type="Bash" />
       <removed_mapping ext="phpt" type="Nette Tester test" />
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="call_cdn_purge" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="RPM-GPG-KEY-NewRelic" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="run-in-docker" type="PLAIN_TEXT" />
       <mapping pattern="tunnels-staging" type="PLAIN_TEXT" />
       <mapping pattern="tunell-staging" type="PLAIN_TEXT" />
@@ -18,7 +20,6 @@
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="latte" type="Smarty" />
-      <mapping pattern="*.sh.j2" type="Bash" />
     </extensionMap>
   </component>
 </application>
