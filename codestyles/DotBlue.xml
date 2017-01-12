@@ -48,6 +48,12 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
+  <PHPCodeStyleSettings>
+    <option name="UPPER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="UPPER_CASE_NULL_CONST" value="true" />
+    <option name="COMBINE_ELSE_IF" value="true" />
+    <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
+  </PHPCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
     <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
