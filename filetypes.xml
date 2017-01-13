@@ -7,12 +7,14 @@
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="call_cdn_purge" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="RPM-GPG-KEY-NewRelic" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="run-in-docker" type="PLAIN_TEXT" />
       <mapping pattern="tunnels-staging" type="PLAIN_TEXT" />
       <mapping pattern="tunell-staging" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="run" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
