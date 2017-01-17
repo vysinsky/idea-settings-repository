@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d13f5ab6-2737-47c0-991a-c7f26ebf8d2e" name="pecena" url="http://pecena.cz">
+        <fileTransfer host="pecena.cz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
