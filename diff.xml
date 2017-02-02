@@ -2,22 +2,6 @@
   <component name="DiffManager">
     <mergeToolParameters value="%1 %2 %3 %4" />
   </component>
-  <component name="DiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="ChangesView">
-        <PlaceSettings />
-      </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings />
-      </entry>
-      <entry key="Default">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings />
-      </entry>
-    </option>
-  </component>
   <component name="ExternalDiffSettings">
     <option name="DIFF_ENABLED" value="false" />
     <option name="DIFF_DEFAULT" value="false" />
