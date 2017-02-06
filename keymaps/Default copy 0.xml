@@ -36,6 +36,9 @@
   <action id="Git.Rebase.Continue">
     <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="c" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
