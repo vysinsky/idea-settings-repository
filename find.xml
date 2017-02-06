@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[codebase] - .../src/Data/Websites/Statistics/Repository.php'" />
     <option name="defaultScopeName" value="File '[codebase] - .../src/Data/Websites/Statistics/Repository.php'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[codebase] - .../src/Data/Websites/Statistics/Repository.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
