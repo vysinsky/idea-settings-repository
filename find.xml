@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'dixons'" />
-    <option name="defaultScopeName" value="Project 'dixons'" />
-    <option name="SEARCH_SCOPE" value="Project 'dixons'" />
+    <option name="customScope" value="File '[codebase] - .../src/Data/Websites/Statistics/Repository.php'" />
+    <option name="defaultScopeName" value="File '[codebase] - .../src/Data/Websites/Statistics/Repository.php'" />
+    <option name="SEARCH_SCOPE" value="File '[codebase] - .../src/Data/Websites/Statistics/Repository.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
