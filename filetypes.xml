@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="*.sh.j2" type="Bash" />
+      <mapping pattern="*.neon.template" type="Neon" />
       <removed_mapping ext="phpt" type="Nette Tester test" />
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="call_cdn_purge" type="PLAIN_TEXT" />
