@@ -110,9 +110,13 @@
           <option name="url" value="git@github.com:contentking/react-slick.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:vysinsky/quicktask.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/www" />
+    <option name="cloneParentDir" value="$USER_HOME$/code" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
