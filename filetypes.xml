@@ -19,6 +19,7 @@
       <mapping pattern="tunell-staging" type="PLAIN_TEXT" />
       <mapping pattern="vbox" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="run" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
