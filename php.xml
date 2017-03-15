@@ -9,11 +9,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/www/codebase/tests/unit/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/bin/php" id="7e1c3baf-40ee-4cf6-90fe-66ca9718ded9" name="PHP 7" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
@@ -317,8 +312,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="selectVariableNameWithoutDollar" value="true" />
   </component>
 </application>
