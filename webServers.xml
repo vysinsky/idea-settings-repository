@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="543c6967-6f46-451a-884c-42412c8ac8be" name="Horokolo" url="http://www.horokolo.cz">
+        <fileTransfer host="horokolo.cz" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/sites/horokolo" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7d17181a-0dbe-4be6-9c8c-b522afeeafe5" name="staging_api" url="http://sav1-brno.contentking.io">
+        <fileTransfer host="sav1-brno.contentking.io" port="22" privateKey="$USER_HOME$/.ssh/contentking_id_rsa" rootFolder="/data/api" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d13f5ab6-2737-47c0-991a-c7f26ebf8d2e" name="pecena" url="http://pecena.cz">
+        <fileTransfer host="pecena.cz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
