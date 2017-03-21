@@ -1,13 +1,19 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="FileChooser.GotoProject" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta alt b" />
   </action>
