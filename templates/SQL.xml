@@ -4,5 +4,6 @@
     <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="&quot;int&quot;" alwaysStopAt="true" />
     <variable name="null" expression="" defaultValue="&quot;not null&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
