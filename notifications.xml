@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
+  </component>
+</application>
