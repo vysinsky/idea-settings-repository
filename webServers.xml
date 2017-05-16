@@ -2,19 +2,11 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="543c6967-6f46-451a-884c-42412c8ac8be" name="Horokolo" url="http://www.horokolo.cz">
-        <fileTransfer host="horokolo.cz" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/data/sites/horokolo" accessType="SFTP" keyPair="true">
+        <fileTransfer host="horokolo.cz" port="22" privateKey="$USER_HOME$/.ssh/vps_rsa" rootFolder="/data/sites/horokolo" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d13f5ab6-2737-47c0-991a-c7f26ebf8d2e" name="pecena" url="http://pecena.cz">
-        <fileTransfer host="pecena.cz" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="9209fa6b-24b7-4f70-9419-3a8c4e5e04e8" name="Dixons Dev gate01" url="http://vysinm01.fo-currys.fo.dev.dixons.com/gbuk/index.html">
