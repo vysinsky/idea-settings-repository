@@ -118,6 +118,10 @@
           <option name="url" value="ssh://git@stash.dsg-i.com:7999/up/fo-data-layer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.dsg-i.com:7999/ete/func-test-base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work" />
