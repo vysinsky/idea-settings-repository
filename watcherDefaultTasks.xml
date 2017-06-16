@@ -133,7 +133,7 @@
       <option name="workingDir" value="$USER_HOME$/work/fo-site-ui" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="run build:lib" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
