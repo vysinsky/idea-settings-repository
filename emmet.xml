@@ -2,4 +2,8 @@
   <component name="CssEmmetOptions">
     <option name="autoInsertCssPrefixedEnabled" value="false" />
   </component>
+  <component name="EmmetOptions">
+    <option name="bemModifierSeparator" value="--" />
+    <option name="previewEnabled" value="true" />
+  </component>
 </application>
