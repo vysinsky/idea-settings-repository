@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
+      <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
     </extensionMap>
