@@ -5,22 +5,8 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,*.html" />
+    <option name="FILE_MASK" value="composer.json" />
     <recentFileMasks>
-      <mask>*.tpl</mask>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.st</mask>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*</mask>
-      <mask>^*.js</mask>
-      <mask>^sp*.js</mask>
-      <mask>^spe*.js</mask>
       <mask>(^spec)*.js</mask>
       <mask>^spec)*.js</mask>
       <mask>^spec*.js</mask>
@@ -37,6 +23,20 @@
       <mask>*.js|*.html</mask>
       <mask>*.js*.html</mask>
       <mask>*.js,*.html</mask>
+      <mask>.s</mask>
+      <mask>.</mask>
+      <mask>.js</mask>
+      <mask>.jso</mask>
+      <mask>.json</mask>
+      <mask>*.json$</mask>
+      <mask>*.json</mask>
+      <mask>com</mask>
+      <mask>compose</mask>
+      <mask>composer</mask>
+      <mask>composer.</mask>
+      <mask>composer.j</mask>
+      <mask>composer.jso</mask>
+      <mask>composer.json</mask>
     </recentFileMasks>
   </component>
 </application>
