@@ -130,6 +130,10 @@
           <option name="url" value="git@github.com:AnnotateFramework/annotate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:vysinsky/nakovarne" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/code" />
