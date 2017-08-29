@@ -134,9 +134,13 @@
           <option name="url" value="git@github.com:vysinsky/nakovarne" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:dixons/react-styleguidist.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/work" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
