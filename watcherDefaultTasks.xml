@@ -290,7 +290,7 @@
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="*" />
+      <option name="fileExtension" value="svg" />
       <option name="immediateSync" value="true" />
       <option name="name" value="build:lib:icons" />
       <option name="output" value="$ProjectFileDir$/lib" />
