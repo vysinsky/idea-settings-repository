@@ -416,7 +416,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="run build:no-private" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
