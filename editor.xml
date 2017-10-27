@@ -7,12 +7,9 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
   </component>
-  <component name="LiveEditOptions" autoDelay="500" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="500" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
