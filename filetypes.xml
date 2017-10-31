@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="test" type="Bash" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="debug" type="PLAIN_TEXT" />
-      <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
-      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
+      <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
