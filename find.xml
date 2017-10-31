@@ -1,16 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../packages [annotate]'" />
-    <option name="defaultScopeName" value="Directory '.../packages [annotate]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../packages [annotate]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.s</mask>
-      <mask>*.styl</mask>
-      <mask>*.js</mask>
-      <mask>*.js|</mask>
-      <mask>*.js|*</mask>
-      <mask>*.js|*.</mask>
       <mask>*.js|*.h</mask>
       <mask>*.js|*.ht</mask>
       <mask>*.js|*.html</mask>
@@ -30,10 +23,17 @@
       <mask>composer.j</mask>
       <mask>composer.jso</mask>
       <mask>composer.json</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tpl</mask>
+      <mask>*</mask>
+      <mask>*.pjp</mask>
+      <mask>*.pj</mask>
+      <mask>*.</mask>
+      <mask>*.hp</mask>
+      <mask>*.h</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.phpt</mask>
     </recentFileMasks>
   </component>
 </application>
