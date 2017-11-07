@@ -14,6 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/www/contentking/codebase/tools/build/trimmer-to-directory.sh" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="api" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -33,6 +34,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/www/contentking/codebase/tools/build/trimmer-to-directory.sh" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="metacluster" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -52,6 +54,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/www/contentking/codebase/tools/build/trimmer-to-directory.sh" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="engine" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -71,6 +74,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/www/codebase/tools/build/trimmer-to-directory.sh" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="api" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$USER_HOME$/www/codebase" />
@@ -90,6 +94,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/www/codebase/tools/build/trimmer-to-directory.sh" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="metacluster" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$USER_HOME$/www/codebase" />
@@ -109,6 +114,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/work/fo-site-ui/node_modules/.bin/gulp" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project files without dist" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$USER_HOME$/work/fo-site-ui" />
@@ -128,6 +134,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/work/fo-site-ui/node_modules/.bin/gulp" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project files without dist" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$USER_HOME$/work/fo-site-ui" />
@@ -147,6 +154,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Source" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -166,6 +174,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Sources" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -185,6 +194,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Sources" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -204,6 +214,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Sources" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -223,6 +234,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Icons" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -242,6 +254,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/sass" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -261,12 +274,13 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Icons" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="run build:lib:styles" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -286,12 +300,13 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Sources" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="run build:lib:icons" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -311,12 +326,13 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Icons" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="run build:lib:js" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -336,6 +352,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Sources" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -361,6 +378,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/delete-cache" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Open Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
@@ -386,6 +404,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/delete-cache" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Open Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
@@ -411,6 +430,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Open Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -436,6 +456,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Open Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
