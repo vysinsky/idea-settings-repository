@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.js|*.h</mask>
-      <mask>*.js|*.ht</mask>
-      <mask>*.js|*.html</mask>
-      <mask>*.js*.html</mask>
-      <mask>*.js,*.html</mask>
-      <mask>.s</mask>
-      <mask>.</mask>
       <mask>.js</mask>
       <mask>.jso</mask>
       <mask>.json</mask>
@@ -28,12 +21,19 @@
       <mask>*</mask>
       <mask>*.pjp</mask>
       <mask>*.pj</mask>
-      <mask>*.</mask>
       <mask>*.hp</mask>
       <mask>*.h</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.phpt</mask>
+      <mask>*.csss</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.styl</mask>
     </recentFileMasks>
   </component>
 </application>
