@@ -306,7 +306,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="run build:lib:icons" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -316,13 +316,7 @@
       <option name="name" value="build:lib:icons" />
       <option name="output" value="$ProjectFileDir$/lib" />
       <option name="outputFilters">
-        <array>
-          <FilterInfo>
-            <option name="description" value="" />
-            <option name="name" value="" />
-            <option name="regExp" value="" />
-          </FilterInfo>
-        </array>
+        <array />
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/npm" />
