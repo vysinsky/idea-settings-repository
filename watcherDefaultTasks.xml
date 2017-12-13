@@ -280,7 +280,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="run build:lib:styles" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -326,7 +326,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="run build:lib:js" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
