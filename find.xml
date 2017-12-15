@@ -2,14 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <recentFileMasks>
-      <mask>.js</mask>
-      <mask>.jso</mask>
-      <mask>.json</mask>
-      <mask>*.json$</mask>
-      <mask>*.json</mask>
-      <mask>com</mask>
       <mask>compose</mask>
       <mask>composer</mask>
       <mask>composer.</mask>
@@ -30,10 +27,16 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
+      <mask>*.styl</mask>
+      <mask>*.sty</mask>
+      <mask>*.st</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.styl</mask>
+      <mask>*.sp</mask>
+      <mask>*.spe</mask>
+      <mask>*.spec</mask>
+      <mask>*.spec.</mask>
+      <mask>*.spec.js</mask>
     </recentFileMasks>
   </component>
 </application>
