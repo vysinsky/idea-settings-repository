@@ -105,7 +105,6 @@
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
     <arrangement>
