@@ -101,43 +101,43 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="css" />
+      <option name="arguments" value="css --ne-build" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="styl" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="Stylus" />
-      <option name="output" value="" />
+      <option name="output" value="$ProjectFileDir$/build" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/work/fo-site-ui/node_modules/.bin/gulp" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Project files without dist" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/work/fo-site-ui" />
+      <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="js" />
+      <option name="arguments" value="" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="js" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="JS" />
-      <option name="output" value="" />
+      <option name="output" value="$ProjectFileDir$/build" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/work/fo-site-ui/node_modules/.bin/gulp" />
+      <option name="program" value="$USER_HOME$/work/fo-site-ui/node_modules/.bin/webpack" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Project files without dist" />
-      <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/work/fo-site-ui" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
