@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styl" />
     <recentFileMasks>
       <mask>composer</mask>
       <mask>composer.</mask>
@@ -23,7 +24,6 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.styl</mask>
       <mask>*.sty</mask>
       <mask>*.st</mask>
       <mask>*.</mask>
@@ -34,6 +34,7 @@
       <mask>*.spec.</mask>
       <mask>*.spec.js</mask>
       <mask>*.js,*.jsx</mask>
+      <mask>*.styl</mask>
     </recentFileMasks>
   </component>
 </application>
