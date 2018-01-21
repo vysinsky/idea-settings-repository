@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.latte" />
     <recentFileMasks>
-      <mask>composer</mask>
       <mask>composer.</mask>
       <mask>composer.j</mask>
       <mask>composer.jso</mask>
@@ -35,6 +34,7 @@
       <mask>*.js,*.jsx</mask>
       <mask>*.styl</mask>
       <mask>*.php</mask>
+      <mask>*.latte</mask>
     </recentFileMasks>
   </component>
 </application>
