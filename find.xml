@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styl" />
     <recentFileMasks>
       <mask>composer.</mask>
       <mask>composer.j</mask>
@@ -31,9 +32,9 @@
       <mask>*.spec.</mask>
       <mask>*.spec.js</mask>
       <mask>*.js,*.jsx</mask>
-      <mask>*.styl</mask>
       <mask>*.latte</mask>
       <mask>*.php</mask>
+      <mask>*.styl</mask>
     </recentFileMasks>
   </component>
 </application>
