@@ -3,39 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>composer.</mask>
-      <mask>composer.j</mask>
-      <mask>composer.jso</mask>
-      <mask>composer.json</mask>
-      <mask>*.t</mask>
-      <mask>*.tpl</mask>
-      <mask>*</mask>
-      <mask>*.pjp</mask>
-      <mask>*.pj</mask>
-      <mask>*.hp</mask>
-      <mask>*.h</mask>
-      <mask>*.p</mask>
-      <mask>*.phpt</mask>
-      <mask>*.csss</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.sty</mask>
-      <mask>*.st</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sp</mask>
-      <mask>*.spe</mask>
-      <mask>*.spec</mask>
-      <mask>*.spec.</mask>
-      <mask>*.spec.js</mask>
-      <mask>*.js,*.jsx</mask>
-      <mask>*.latte</mask>
-      <mask>*.php</mask>
-      <mask>*.styl</mask>
-    </recentFileMasks>
   </component>
 </application>
