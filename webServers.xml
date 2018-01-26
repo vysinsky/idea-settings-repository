@@ -25,6 +25,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="dc1b9867-df58-4370-a175-0d26fe67a95a" name="Kordulka" url="http://www.kordulka-kroje.cz">
+        <fileTransfer host="vps" port="22" rootFolder="/data/sites/kordulka" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
