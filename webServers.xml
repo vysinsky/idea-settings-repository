@@ -9,7 +9,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="9209fa6b-24b7-4f70-9419-3a8c4e5e04e8" name="Dixons Dev gate01" url="http://vysinm01.fo-currys.fo.dev.dixons.com/gbuk/index.html">
+      <webServer id="9209fa6b-24b7-4f70-9419-3a8c4e5e04e8" name="Dixons Dev gate01 Currys" url="http://vysinm01.fo-currys.fo.dev.dixons.com/gbuk/index.html">
         <fileTransfer host="gate01.svc.common.dev.l01.dsg-i.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -27,6 +27,14 @@
       </webServer>
       <webServer id="dc1b9867-df58-4370-a175-0d26fe67a95a" name="Kordulka" url="http://www.kordulka-kroje.cz">
         <fileTransfer host="vps" port="22" rootFolder="/data/sites/kordulka" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6547cb53-5498-4701-b890-1b19cf4f7686" name="Dixons Dev gate01 PCWorld" url="http://vysinm01.fo-currys.fo.dev.dixons.com/gbuk/index.html">
+        <fileTransfer host="gate01.svc.common.dev.l01.dsg-i.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
