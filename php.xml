@@ -11,13 +11,13 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php71/7.1.13_24/bin/php" id="8ecfc79a-26c5-44a9-8bd3-0e4914092668" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php71/7.1.14_25/bin/php" id="657a94e5-87aa-4bf3-ba32-4b5c352b6c4a" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.13_24/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.13_24/bin/php" path_separator=":" version="7.1.13">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.14_25/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.14_25/bin/php" path_separator=":" version="7.1.14">
           <additional_php_ini />
           <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
@@ -70,7 +70,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/usr/local/Cellar/php71/7.1.13_24/lib/php/extensions/no-debug-non-zts-20160303" />
+            <configuration_option name="extension_dir" value="/usr/local/Cellar/php71/7.1.14_25/lib/php/extensions/no-debug-non-zts-20160303" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
