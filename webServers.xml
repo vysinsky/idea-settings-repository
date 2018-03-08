@@ -33,6 +33,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="8eb17c7a-5a06-430b-912e-f2a2ddd0eb0c" name="Dixons Dev gate01 CurrysIE" url="http://vysinm01.fo-currys.fo.dev.dixons.com/gbuk/index.html">
+        <fileTransfer host="gate01.svc.common.dev.l01.dsg-i.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4b425c78-6568-4492-8ed2-ce52e403b719" name="Dixons Dev gate01 PCWorld" url="http://vysinm01.fo-currys.fo.dev.dixons.com/gbuk/index.html">
+        <fileTransfer host="gate01.svc.common.dev.l01.dsg-i.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
