@@ -1,7 +1,7 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-03-15T15:20:51</property>
+    <property name="modified">2018-03-15T15:23:12</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <font>
@@ -803,16 +803,19 @@
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LINE_FULL_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="27c314" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="d7140c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="ffff6f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
