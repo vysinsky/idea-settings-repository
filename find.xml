@@ -13,9 +13,9 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.spec.js</mask>
-    <mask>*.styl</mask>
     <mask>*.tpl</mask>
     <mask>*.css</mask>
     <mask>*.md</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
