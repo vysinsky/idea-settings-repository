@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="event" value="export function $NAME$(digitalDataObj, trackFunction, store, action) {&#10;  const events = digitalDataObj.events || [];&#10;&#10;  events.push({&#10;    eventName: $EVENT_NAME$,&#10;    eventAction: $EVENT_ACTION$,&#10;    data: {&#10;      $END$&#10;    }&#10;  });&#10;&#10;  return {&#10;    events: events&#10;  };&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="event" value="export function $NAME$(digitalDataObj, trackFunction, store, action) {&#10;  const events = digitalDataObj.events || [];&#10;&#10;  events.push({&#10;    eventName: $EVENT_NAME$,&#10;    eventAction: $EVENT_ACTION$,&#10;    data: {&#10;      $END$&#10;    }&#10;  });&#10;&#10;  return {&#10;    events: events&#10;  };&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EVENT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EVENT_ACTION" expression="" defaultValue="" alwaysStopAt="true" />
