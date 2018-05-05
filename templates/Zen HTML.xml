@@ -25,6 +25,11 @@
       <option name="JSP" value="true" />
     </context>
   </template>
+  <template name="frame" value="&lt;frame&gt;" description="&lt;frame&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
   <template name="object" value="&lt;object data=&quot;$VAR0$&quot; type=&quot;$VAR1$&quot;&gt;$END$&lt;/object&gt;" description="&lt;object data=&quot;...&quot; type=&quot;...&quot;&gt;...&lt;/object&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
@@ -54,6 +59,11 @@
     </context>
   </template>
   <template name="out" value="&lt;output&gt;$END$&lt;/output&gt;" description="&lt;output&gt;...&lt;/output&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="det" value="&lt;details&gt;$END$&lt;/details&gt;" description="&lt;details&gt;...&lt;/details&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
     </context>
