@@ -6,20 +6,20 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/www/codebase/tests/unit/vendor/bin/phpcs" />
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/code/violetlatteplease/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="7e1c3baf-40ee-4cf6-90fe-66ca9718ded9" name="PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php71/7.1.14_25/bin/php" id="657a94e5-87aa-4bf3-ba32-4b5c352b6c4a" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.2">
-          <additional_php_ini>/etc/php/conf.d/xdebug.ini</additional_php_ini>
-          <configuration_file>/etc/php/php.ini</configuration_file>
+      <interpreter name="PHP 7.1">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.14_25/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.14_25/bin/php" path_separator=":" version="7.1.14">
+          <additional_php_ini />
+          <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -46,6 +46,7 @@
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
             <configuration_option name="date.timezone" value="" />
+            <configuration_option name="dba.default_handler" value="flatfile" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
@@ -62,12 +63,19 @@
             <configuration_option name="error_log" value="" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="32767" />
+            <configuration_option name="exif.decode_jis_intel" value="JIS" />
+            <configuration_option name="exif.decode_jis_motorola" value="JIS" />
+            <configuration_option name="exif.decode_unicode_intel" value="UCS-2LE" />
+            <configuration_option name="exif.decode_unicode_motorola" value="UCS-2BE" />
+            <configuration_option name="exif.encode_jis" value="" />
+            <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/usr/lib/php/modules/" />
+            <configuration_option name="extension_dir" value="/usr/local/Cellar/php71/7.1.14_25/lib/php/extensions/no-debug-non-zts-20160303" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
             <configuration_option name="from" value="" />
+            <configuration_option name="gd.jpeg_ignore_warning" value="1" />
             <configuration_option name="hard_timeout" value="2" />
             <configuration_option name="highlight.comment" value="#FF8000" />
             <configuration_option name="highlight.default" value="#0000BB" />
@@ -85,6 +93,7 @@
             <configuration_option name="include_path" value=".:" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
+            <configuration_option name="ldap.max_links" value="-1" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
             <configuration_option name="mail.add_x_header" value="1" />
@@ -111,13 +120,13 @@
             <configuration_option name="mysqli.default_host" value="" />
             <configuration_option name="mysqli.default_port" value="3306" />
             <configuration_option name="mysqli.default_pw" value="" />
-            <configuration_option name="mysqli.default_socket" value="/run/mysqld/mysqld.sock" />
+            <configuration_option name="mysqli.default_socket" value="/tmp/mysql.sock" />
             <configuration_option name="mysqli.default_user" value="" />
             <configuration_option name="mysqli.max_links" value="-1" />
             <configuration_option name="mysqli.max_persistent" value="-1" />
             <configuration_option name="mysqli.reconnect" value="" />
             <configuration_option name="mysqli.rollback_on_cached_plink" value="0" />
-            <configuration_option name="mysqlnd.collect_memory_statistics" value="" />
+            <configuration_option name="mysqlnd.collect_memory_statistics" value="1" />
             <configuration_option name="mysqlnd.collect_statistics" value="1" />
             <configuration_option name="mysqlnd.debug" value="" />
             <configuration_option name="mysqlnd.fetch_data_copy" value="0" />
@@ -128,6 +137,16 @@
             <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
+            <configuration_option name="odbc.allow_persistent" value="1" />
+            <configuration_option name="odbc.check_persistent" value="1" />
+            <configuration_option name="odbc.default_cursortype" value="3" />
+            <configuration_option name="odbc.default_db" value="" />
+            <configuration_option name="odbc.default_pw" value="" />
+            <configuration_option name="odbc.default_user" value="" />
+            <configuration_option name="odbc.defaultbinmode" value="1" />
+            <configuration_option name="odbc.defaultlrl" value="4096" />
+            <configuration_option name="odbc.max_links" value="-1" />
+            <configuration_option name="odbc.max_persistent" value="-1" />
             <configuration_option name="open_basedir" value="" />
             <configuration_option name="openssl.cafile" value="" />
             <configuration_option name="openssl.capath" value="" />
@@ -137,7 +156,7 @@
             <configuration_option name="pcre.backtrack_limit" value="1000000" />
             <configuration_option name="pcre.jit" value="1" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
-            <configuration_option name="pdo_mysql.default_socket" value="/run/mysqld/mysqld.sock" />
+            <configuration_option name="pdo_mysql.default_socket" value="/tmp/mysql.sock" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
@@ -150,8 +169,8 @@
             <configuration_option name="report_zend_debug" value="0" />
             <configuration_option name="request_order" value="GP" />
             <configuration_option name="sendmail_from" value="" />
-            <configuration_option name="sendmail_path" value="/usr/bin/sendmail -t -i " />
-            <configuration_option name="serialize_precision" value="17" />
+            <configuration_option name="sendmail_path" value="/usr/sbin/sendmail -t -i " />
+            <configuration_option name="serialize_precision" value="-1" />
             <configuration_option name="session.auto_start" value="0" />
             <configuration_option name="session.cache_expire" value="180" />
             <configuration_option name="session.cache_limiter" value="nocache" />
@@ -169,8 +188,8 @@
             <configuration_option name="session.save_handler" value="files" />
             <configuration_option name="session.save_path" value="" />
             <configuration_option name="session.serialize_handler" value="php" />
-            <configuration_option name="session.sid_bits_per_character" value="4" />
-            <configuration_option name="session.sid_length" value="32" />
+            <configuration_option name="session.sid_bits_per_character" value="5" />
+            <configuration_option name="session.sid_length" value="26" />
             <configuration_option name="session.trans_sid_hosts" value="" />
             <configuration_option name="session.trans_sid_tags" value="a=href,area=href,frame=src,form=" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
@@ -185,82 +204,28 @@
             <configuration_option name="session.use_trans_sid" value="0" />
             <configuration_option name="short_open_tag" value="" />
             <configuration_option name="smtp_port" value="25" />
+            <configuration_option name="soap.wsdl_cache" value="1" />
+            <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
+            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
+            <configuration_option name="soap.wsdl_cache_limit" value="5" />
+            <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
+            <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
-            <configuration_option name="track_errors" value="" />
+            <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
             <configuration_option name="upload_tmp_dir" value="" />
             <configuration_option name="url_rewriter.hosts" value="" />
-            <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
+            <configuration_option name="url_rewriter.tags" value="form=" />
             <configuration_option name="user_agent" value="" />
             <configuration_option name="user_dir" value="" />
             <configuration_option name="user_ini.cache_ttl" value="300" />
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
-            <configuration_option name="xdebug.auto_trace" value="0" />
-            <configuration_option name="xdebug.cli_color" value="0" />
-            <configuration_option name="xdebug.collect_assignments" value="0" />
-            <configuration_option name="xdebug.collect_includes" value="1" />
-            <configuration_option name="xdebug.collect_params" value="0" />
-            <configuration_option name="xdebug.collect_return" value="0" />
-            <configuration_option name="xdebug.collect_vars" value="0" />
-            <configuration_option name="xdebug.coverage_enable" value="1" />
-            <configuration_option name="xdebug.default_enable" value="1" />
-            <configuration_option name="xdebug.dump.COOKIE" value="" />
-            <configuration_option name="xdebug.dump.ENV" value="" />
-            <configuration_option name="xdebug.dump.FILES" value="" />
-            <configuration_option name="xdebug.dump.GET" value="" />
-            <configuration_option name="xdebug.dump.POST" value="" />
-            <configuration_option name="xdebug.dump.REQUEST" value="" />
-            <configuration_option name="xdebug.dump.SERVER" value="" />
-            <configuration_option name="xdebug.dump.SESSION" value="" />
-            <configuration_option name="xdebug.dump_globals" value="1" />
-            <configuration_option name="xdebug.dump_once" value="1" />
-            <configuration_option name="xdebug.dump_undefined" value="0" />
-            <configuration_option name="xdebug.extended_info" value="1" />
-            <configuration_option name="xdebug.file_link_format" value="" />
-            <configuration_option name="xdebug.force_display_errors" value="0" />
-            <configuration_option name="xdebug.force_error_reporting" value="0" />
-            <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="" />
-            <configuration_option name="xdebug.max_nesting_level" value="256" />
-            <configuration_option name="xdebug.max_stack_frames" value="-1" />
-            <configuration_option name="xdebug.overload_var_dump" value="2" />
-            <configuration_option name="xdebug.profiler_aggregate" value="0" />
-            <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.profiler_output_dir" value="/tmp" />
-            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
-            <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="0" />
-            <configuration_option name="xdebug.remote_connect_back" value="0" />
-            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
-            <configuration_option name="xdebug.remote_enable" value="0" />
-            <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
-            <configuration_option name="xdebug.remote_log" value="" />
-            <configuration_option name="xdebug.remote_mode" value="req" />
-            <configuration_option name="xdebug.remote_port" value="9000" />
-            <configuration_option name="xdebug.scream" value="0" />
-            <configuration_option name="xdebug.show_error_trace" value="0" />
-            <configuration_option name="xdebug.show_exception_trace" value="0" />
-            <configuration_option name="xdebug.show_local_vars" value="0" />
-            <configuration_option name="xdebug.show_mem_delta" value="0" />
-            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
-            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.trace_format" value="0" />
-            <configuration_option name="xdebug.trace_options" value="0" />
-            <configuration_option name="xdebug.trace_output_dir" value="/tmp" />
-            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
-            <configuration_option name="xdebug.var_display_max_children" value="128" />
-            <configuration_option name="xdebug.var_display_max_data" value="512" />
-            <configuration_option name="xdebug.var_display_max_depth" value="3" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
-            <configuration_option name="zend.assertions" value="-1" />
+            <configuration_option name="zend.assertions" value="1" />
             <configuration_option name="zend.detect_unicode" value="1" />
             <configuration_option name="zend.enable_gc" value="1" />
             <configuration_option name="zend.multibyte" value="0" />
@@ -270,33 +235,38 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.5.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
+            <extension name="PDO_ODBC" />
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="bcmath" />
+            <extension name="bz2" />
             <extension name="calendar" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
+            <extension name="dba" />
             <extension name="dom" />
+            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
+            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
+            <extension name="odbc" />
             <extension name="openssl" />
             <extension name="pcntl" />
             <extension name="pcre" />
@@ -305,12 +275,21 @@
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sqlite3" />
             <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
+            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
+            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
+            <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>

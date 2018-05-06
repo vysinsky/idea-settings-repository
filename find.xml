@@ -1,37 +1,24 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.latte</mask>
-      <mask>issues.js</mask>
-      <mask>ui.js</mask>
-      <mask>*.j2</mask>
-      <mask>*.php</mask>
-      <mask>*.tpl</mask>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.styl</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.spec.js</mask>
+    <mask>*.tpl</mask>
+    <mask>*.css</mask>
+    <mask>*.md</mask>
+    <mask>*.styl</mask>
+    <mask>*Renderer.js</mask>
   </component>
 </application>
