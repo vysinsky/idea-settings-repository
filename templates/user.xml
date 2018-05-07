@@ -7,4 +7,9 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="icx" value="import cx from 'classnames';" description="Import classnames (as cx)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
