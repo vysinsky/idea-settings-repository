@@ -1,8 +1,15 @@
 <application>
   <component name="PresentationAssistant">
+    <option name="alternativeKeymap">
+      <KeymapDescription>
+        <option name="displayText" value="Win/Linux" />
+        <option name="name" value="$default" />
+      </KeymapDescription>
+    </option>
+    <option name="horizontalAlignment" value="RIGHT" />
     <option name="mainKeymap">
       <KeymapDescription>
-        <option name="name" value="Default copy 0" />
+        <option name="name" value="Default copy 1" />
       </KeymapDescription>
     </option>
   </component>
