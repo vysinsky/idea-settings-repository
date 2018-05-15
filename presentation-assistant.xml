@@ -6,11 +6,13 @@
         <option name="name" value="$default" />
       </KeymapDescription>
     </option>
-    <option name="horizontalAlignment" value="RIGHT" />
+    <option name="fontSize" value="36" />
+    <option name="horizontalAlignment" value="LEFT" />
     <option name="mainKeymap">
       <KeymapDescription>
         <option name="name" value="Default copy 1" />
       </KeymapDescription>
     </option>
+    <option name="verticalAlignment" value="TOP" />
   </component>
 </application>
