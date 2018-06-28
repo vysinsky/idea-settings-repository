@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.2-2018.2" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="statusBarTheme" value="false" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="fileStatusColorsEnabled" value="true" />
+    <option name="userId" value="1cd33f31:164454a187d:-8000" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>
