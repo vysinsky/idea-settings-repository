@@ -4,6 +4,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/cosmiconfig" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/expect" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -13,6 +17,10 @@
       <SOURCES />
     </library>
     <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/joi" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
