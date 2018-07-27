@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.7.0" />
+    <option name="version" value="2.6.1" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="statusBarTheme" value="false" />
@@ -10,6 +11,5 @@
     <option name="settingsSelectedTab" value="6" />
     <option name="userId" value="1cd33f31:164454a187d:-8000" />
     <option name="allowDataCollection" value="true" />
-    <option name="isHighContrast" value="true" />
   </component>
 </application>
