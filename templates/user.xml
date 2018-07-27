@@ -12,7 +12,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="sctb" value="${({&#10;  theme: {}&#10;}) =&gt; css`&#10;  $END$&#10;`}" description="Styled components theme variables block" toReformat="true" toShortenFQNames="true">
+  <template name="sctb" value="${({&#10;  theme: {}&#10;}) =&gt; css`&#10;  $END$&#10;`};" description="Styled components theme variables block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
