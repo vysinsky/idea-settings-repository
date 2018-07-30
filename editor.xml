@@ -11,6 +11,9 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="500" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
