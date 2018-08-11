@@ -6,6 +6,7 @@
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern="admin_counted" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
