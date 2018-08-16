@@ -32,6 +32,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/puppeteer" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="enzyme-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
