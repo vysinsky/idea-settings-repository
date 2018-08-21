@@ -17,7 +17,7 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
-  <template name="spacing" value="${({ theme }) =&gt; theme.spacing[$END$]};" description="Add spacing variable" toReformat="true" toShortenFQNames="true">
+  <template name="spacing" value="${({ theme }) =&gt; theme.spacing[$END$]}" description="Add spacing variable" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_PROPERTY_VALUE" value="true" />
     </context>
