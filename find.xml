@@ -16,9 +16,9 @@
     <mask>*.md</mask>
     <mask>*.styl</mask>
     <mask>*.spec.js</mask>
-    <mask>*.tpl</mask>
     <mask>*.svg</mask>
     <mask>*.js</mask>
     <mask>package.json</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
