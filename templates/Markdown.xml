@@ -2,6 +2,7 @@
   <template name=".abbreviation" value="*[$ABBR$]: $TEXT$&#10;$END$" description="Abbreviation *[]:" toReformat="false" toShortenFQNames="false">
     <variable name="ABBR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name=".link" value="[$LABEL$]($ADDRESS$) $END$" description="Explicit Link []()" toReformat="false" toShortenFQNames="false">
     <variable name="ADDRESS" expression="" defaultValue="" alwaysStopAt="true" />
@@ -57,10 +58,6 @@
   </template>
   <template name=".emoji" value=":$SHORTCUT$: $END$" description=":shortcut:" toReformat="false" toShortenFQNames="false">
     <variable name="SHORTCUT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name=".collapsed" value="&#10;&amp;nbsp;&lt;details open&gt;&lt;summary&gt;$SUMMARY$&lt;/summary&gt;&#10;$END$&#10;&amp;nbsp;&lt;/details&gt;&#10;" description="Collapsed Markdown Section" toReformat="false" toShortenFQNames="true" deactivated="true">
-    <variable name="SUMMARY" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
 </templateSet>
