@@ -8,6 +8,7 @@
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
+      <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern="admin_counted" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
