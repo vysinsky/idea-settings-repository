@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/babel-core" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/chrome" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -9,6 +13,10 @@
       <SOURCES />
     </library>
     <library name="@types/expect" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>

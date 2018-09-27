@@ -13,12 +13,12 @@
     <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*Renderer.js</mask>
-    <mask>*.md</mask>
     <mask>*.styl</mask>
     <mask>*.spec.js</mask>
     <mask>*.svg</mask>
-    <mask>*.js</mask>
     <mask>package.json</mask>
     <mask>*.tpl</mask>
+    <mask>*.js</mask>
+    <mask>*.md</mask>
   </component>
 </application>
