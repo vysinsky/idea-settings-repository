@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Branch Context group" displayType="NONE" shouldLog="false" />
-    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldReadAloud="true" />
-    <notification groupId="Vcs Notifications" shouldLog="false" />
-  </component>
-</application>
