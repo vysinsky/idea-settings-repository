@@ -1,5 +1,9 @@
 <application>
-  <component name="LiveEditOptions" chromeAutoDelay="500" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
+  <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="500" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
 </application>
