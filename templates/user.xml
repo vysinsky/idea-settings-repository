@@ -17,9 +17,15 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
-  <template name="theme" value="${({ theme }) =&gt; theme.$END$}" description="Add theme variable" toReformat="true" toShortenFQNames="true">
+  <template name="sctheme" value="${({ theme }) =&gt; theme.$END$}" description="Add theme variable" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_PROPERTY_VALUE" value="true" />
+    </context>
+  </template>
+  <template name="scprop" value="${({ $PROP$ }) =&gt; $END$}" description="Add prop variable" toReformat="true" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
     </context>
   </template>
 </templateSet>
