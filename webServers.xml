@@ -17,14 +17,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="9209fa6b-24b7-4f70-9419-3a8c4e5e04e8" name="Dixons Dev gate01 Currys" url="http://vysinm01.fo-currys.fo.dev.dixons.com/gbuk/index.html">
-        <fileTransfer host="gate01.svc.common.dev.l01.dsg-i.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="e46f36e8-daa2-4cb1-af81-7239da749a3d" name="Terezagency" url="http://terezagency.cz">
         <fileTransfer host="74367.w67.wedos.net" port="21">
           <advancedOptions>
