@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="package.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,8 +22,8 @@
     <mask>*.spec.js</mask>
     <mask>*.svg</mask>
     <mask>*.tpl</mask>
-    <mask>package.json</mask>
     <mask>*.md</mask>
     <mask>*.js</mask>
+    <mask>package.json</mask>
   </component>
 </application>
