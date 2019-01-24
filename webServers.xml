@@ -1,16 +1,16 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="543c6967-6f46-451a-884c-42412c8ac8be" name="Horokolo" url="http://www.horokolo.cz">
-        <fileTransfer host="horokolo.cz" port="22" privateKey="$USER_HOME$/.ssh/vps_rsa" rootFolder="/data/sites/horokolo" accessType="SFTP" keyPair="true">
+      <webServer id="a6037d0d-aaec-4e40-84bf-f3e873ed3d7f" name="Dixons test01 CDN" url="http://cdn100.svc.corepub.test01.l01.dsg-i.com">
+        <fileTransfer host="cdn100.svc.corepub.test01.l01.dsg-i.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="9209fa6b-24b7-4f70-9419-3a8c4e5e04e8" name="Dixons Dev gate01 Currys" url="http://vysinm01.fo-currys.fo.dev.dixons.com/gbuk/index.html">
-        <fileTransfer host="gate01.svc.common.dev.l01.dsg-i.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home" accessType="SFTP" keyPair="true">
+      <webServer id="543c6967-6f46-451a-884c-42412c8ac8be" name="Horokolo" url="http://www.horokolo.cz">
+        <fileTransfer host="horokolo.cz" port="22" privateKey="$USER_HOME$/.ssh/vps_rsa" rootFolder="/data/sites/horokolo" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
