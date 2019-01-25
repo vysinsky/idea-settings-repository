@@ -3,6 +3,7 @@
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
+    <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-d33d4e6:1687f92e234:-8000" />
     <option name="version" value="3.4.1.1" />
