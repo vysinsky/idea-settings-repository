@@ -2,28 +2,30 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="base" type="Dockerfile" />
+      <mapping ext="prisma" type="GraphQL Schema" />
       <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping ext="phpt" type="PHP" />
-      <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
-      <mapping pattern="debug" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="browserslist" type="PLAIN_TEXT" />
-      <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
-      <mapping pattern="admin_counted" type="PLAIN_TEXT" />
-      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
-      <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping pattern=".bundle" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
+      <mapping pattern=".bundle" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="admin_counted" type="PLAIN_TEXT" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
+      <mapping pattern="browserslist" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <removed_mapping ext="neon" approved="true" type="Neon" />
+      <removed_mapping ext="prisma" approved="true" type="GraphQL" />
       <mapping pattern="build" type="Bash" />
       <mapping pattern="test" type="Bash" />
     </extensionMap>
