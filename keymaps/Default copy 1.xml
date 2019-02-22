@@ -33,7 +33,16 @@
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="shift alt y" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
 </keymap>
