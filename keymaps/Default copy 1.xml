@@ -1,4 +1,13 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="AceLineAction">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="AceTargetAction">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -17,7 +26,23 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta alt b" />
   </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="shift alt space" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="shift alt y" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
 </keymap>
