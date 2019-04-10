@@ -5,6 +5,7 @@
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="style" value="&lt;style&gt;$END$&lt;/style&gt;" description="&lt;style&gt;...&lt;/style&gt;" toReformat="true" toShortenFQNames="true">
@@ -34,6 +35,7 @@
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
     </context>
   </template>
 </templateSet>
