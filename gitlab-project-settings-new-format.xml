@@ -1,5 +1,33 @@
 <application>
   <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/docker-base.git" />
+          <option name="name" value="docker-base" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/docker-base.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/translation-service.git" />
+          <option name="name" value="translation-service" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/translation-service.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/ubo.git" />
+          <option name="name" value="ubo" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/ubo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/ufo.git" />
+          <option name="name" value="ufo" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/ufo.git" />
+        </ProjectDto>
+      </list>
+    </option>
     <option name="gitlabServers">
       <list>
         <GitlabServer>
