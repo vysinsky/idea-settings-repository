@@ -22,6 +22,7 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
