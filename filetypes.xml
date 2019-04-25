@@ -8,6 +8,7 @@
       <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
+      <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
