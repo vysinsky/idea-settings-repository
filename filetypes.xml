@@ -29,6 +29,7 @@
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <removed_mapping ext="neon" approved="true" type="Neon" />
       <removed_mapping ext="prisma" approved="true" type="GraphQL" />
       <mapping ext="gql" type="GraphQL Schema" />
