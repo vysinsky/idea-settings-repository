@@ -12,6 +12,7 @@
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
