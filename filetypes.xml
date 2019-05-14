@@ -10,7 +10,6 @@
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
       <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
@@ -32,8 +31,8 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <removed_mapping ext="neon" approved="true" type="Neon" />
       <removed_mapping ext="prisma" approved="true" type="GraphQL" />
+      <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping ext="gql" type="GraphQL Schema" />
       <mapping ext="prisma" type="GraphQL Schema" />
     </extensionMap>
