@@ -5,8 +5,6 @@
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="prisma" type="GraphQL" />
       <removed_mapping ext="neon" approved="true" type="Neon" />
-      <mapping ext="phpt" type="PHP" />
-      <removed_mapping ext="phpt" type="PHPT" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
