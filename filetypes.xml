@@ -6,6 +6,7 @@
       <mapping ext="prisma" type="GraphQL" />
       <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping ext="phpt" type="PHP" />
+      <removed_mapping ext="phpt" type="PHPT" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
@@ -34,11 +35,11 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="neon" approved="true" type="Neon" />
-      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="neon" approved="true" type="Neon" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gql" type="GraphQL Schema" />
       <mapping ext="prisma" type="GraphQL Schema" />
