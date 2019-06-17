@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="build" type="Bash" />
+      <mapping pattern="test" type="Bash" />
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="prisma" type="GraphQL" />
@@ -40,8 +42,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gql" type="GraphQL Schema" />
       <mapping ext="prisma" type="GraphQL Schema" />
-      <mapping pattern="build" type="Bash" />
-      <mapping pattern="test" type="Bash" />
     </extensionMap>
   </component>
 </application>
