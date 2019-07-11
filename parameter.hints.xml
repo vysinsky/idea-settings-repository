@@ -2,7 +2,11 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
-      <blacklist language="PHP" />
+      <blacklist language="Angular HTML Template" />
+      <blacklist language="JavaScript" />
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
