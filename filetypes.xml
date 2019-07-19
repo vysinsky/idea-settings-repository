@@ -7,6 +7,7 @@
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".gitexcludes" type="Git file" />
       <mapping ext="prisma" type="GraphQL" />
       <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
