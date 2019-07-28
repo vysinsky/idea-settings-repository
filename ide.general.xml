@@ -25,5 +25,10 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="performance.watcher.sampling.interval.ms" value="100" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="500" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>

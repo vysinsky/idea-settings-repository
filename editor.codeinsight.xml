@@ -11,4 +11,8 @@
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
   </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="alwaysCompleteWithEnter" value="true" />
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
 </application>
