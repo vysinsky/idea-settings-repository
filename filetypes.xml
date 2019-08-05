@@ -5,7 +5,6 @@
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".gitexcludes" type="Git file" />
       <mapping ext="prisma" type="GraphQL" />
       <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
@@ -46,6 +45,7 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="gql" type="GraphQL Schema" />
       <mapping ext="prisma" type="GraphQL Schema" />
+      <mapping pattern=".gitexcludes" type="Git file" />
       <mapping pattern="build" type="Bash" />
       <mapping pattern="test" type="Bash" />
     </extensionMap>
