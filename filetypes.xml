@@ -6,7 +6,6 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="prisma" type="GraphQL" />
-      <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
       <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
