@@ -214,9 +214,13 @@
           <option name="url" value="git@github.com:vysinsky/visualizing-git.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.dsg-i.com:inspiration/navigation-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/inspiration" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
