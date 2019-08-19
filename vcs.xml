@@ -218,6 +218,10 @@
           <option name="url" value="git@gitlab.dsg-i.com:inspiration/navigation-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.dsg-i.com:inspiration/carousel-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/inspiration" />
