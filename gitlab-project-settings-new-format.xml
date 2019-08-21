@@ -788,6 +788,144 @@
           <option name="namespace" value="VYSINM01" />
           <option name="sshUrl" value="git@gitlab.dsg-i.com:VYSINM01/ufo-remote-url.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/application/order.git" />
+          <option name="name" value="order" />
+          <option name="namespace" value="application" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/application/order.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/application/web.git" />
+          <option name="name" value="web" />
+          <option name="namespace" value="application" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/application/web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure/environment.git" />
+          <option name="name" value="environment" />
+          <option name="namespace" value="Azure" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure/environment.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure/runner.git" />
+          <option name="name" value="runner" />
+          <option name="namespace" value="Azure" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure/runner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/infrastructure/common-lib.git" />
+          <option name="name" value="common-lib" />
+          <option name="namespace" value="infrastructure" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/infrastructure/common-lib.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/infrastructure/order.git" />
+          <option name="name" value="order" />
+          <option name="namespace" value="infrastructure" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/infrastructure/order.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/infrastructure/web.git" />
+          <option name="name" value="web" />
+          <option name="namespace" value="infrastructure" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/infrastructure/web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/carousel-service.git" />
+          <option name="name" value="carousel-service" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/carousel-service.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/ci-templates.git" />
+          <option name="name" value="CI templates" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/ci-templates.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/docker.git" />
+          <option name="name" value="docker" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/docker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/navigation-service.git" />
+          <option name="name" value="navigation-service" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/navigation-service.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/smoke-tester.git" />
+          <option name="name" value="smoke-tester" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/smoke-tester.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/translation-service.git" />
+          <option name="name" value="translation-service" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/translation-service.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/ubo.git" />
+          <option name="name" value="ubo" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/ubo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/ubo-example-module.git" />
+          <option name="name" value="ubo-example-module" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/ubo-example-module.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/inspiration/ufo.git" />
+          <option name="name" value="ufo" />
+          <option name="namespace" value="Inspiration" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:inspiration/ufo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/azure-logging.git" />
+          <option name="name" value="azure-logging" />
+          <option name="namespace" value="pipeline" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/azure-logging.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/azure-logging-kube.git" />
+          <option name="name" value="azure-logging-kube" />
+          <option name="namespace" value="pipeline" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/azure-logging-kube.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/basecluster.git" />
+          <option name="name" value="BaseCluster" />
+          <option name="namespace" value="pipeline" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/basecluster.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/common-lib.git" />
+          <option name="name" value="common-lib" />
+          <option name="namespace" value="pipeline" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/common-lib.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/azure-poc/pipeline/monitoring.git" />
+          <option name="name" value="monitoring" />
+          <option name="namespace" value="pipeline" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:azure-poc/pipeline/monitoring.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/VYSINM01/tech-radar.git" />
+          <option name="name" value="Tech radar" />
+          <option name="namespace" value="VYSINM01" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:VYSINM01/tech-radar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.dsg-i.com/VYSINM01/ufo-remote-url.git" />
+          <option name="name" value="ufo-remote-url" />
+          <option name="namespace" value="VYSINM01" />
+          <option name="sshUrl" value="git@gitlab.dsg-i.com:VYSINM01/ufo-remote-url.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
