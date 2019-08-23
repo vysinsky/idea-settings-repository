@@ -49,6 +49,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9b799e09-ec6c-4ce4-aab8-7ad896e06092" name="VPS-sklep" url="http://www.sklep-udvouzvirat.cz">
+        <fileTransfer host="vps" port="22" rootFolder="/data/sites/sklep" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
