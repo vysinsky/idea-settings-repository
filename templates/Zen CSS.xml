@@ -1,4 +1,7 @@
 <templateSet group="Zen CSS">
+  <template name="m" value="margin: $END$;" description="margin:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
   <template name="pt" value="padding-top: $END$;" description="padding-top:...;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
