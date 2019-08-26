@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="database" type="Dockerfile" />
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="base" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
