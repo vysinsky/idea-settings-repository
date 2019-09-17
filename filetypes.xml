@@ -5,6 +5,7 @@
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="prisma" type="GraphQL" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="admin_counted" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
@@ -21,7 +22,6 @@
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
-      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
@@ -30,6 +30,7 @@
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="ora" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
