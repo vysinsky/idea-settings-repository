@@ -13,6 +13,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
