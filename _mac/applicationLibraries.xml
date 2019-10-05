@@ -12,6 +12,18 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/enzyme" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/enzyme-to-json" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/execa" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/expect" type="javaScript">
       <CLASSES />
       <SOURCES />
