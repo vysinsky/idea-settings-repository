@@ -8,6 +8,7 @@
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="admin_counted" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
