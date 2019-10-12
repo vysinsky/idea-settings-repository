@@ -1,15 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="database" type="Dockerfile" />
-      <mapping ext="base" type="Dockerfile" />
+      <mapping pattern="build" type="Bash" />
+      <mapping pattern="test" type="Bash" />
       <mapping ext="subsplit" type="Dockerfile" />
-      <mapping ext="prisma" type="GraphQL" />
+      <mapping ext="base" type="Dockerfile" />
+      <mapping ext="database" type="Dockerfile" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
       <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".bundle" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
@@ -19,20 +23,18 @@
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping pattern=".bundle" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -46,8 +48,6 @@
       <mapping ext="gql" type="GraphQL Schema" />
       <mapping ext="prisma" type="GraphQL Schema" />
       <mapping pattern=".gitexcludes" type="Git file" />
-      <mapping pattern="build" type="Bash" />
-      <mapping pattern="test" type="Bash" />
     </extensionMap>
   </component>
 </application>
