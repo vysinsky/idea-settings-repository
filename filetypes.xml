@@ -19,6 +19,7 @@
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="DB_PASS" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
