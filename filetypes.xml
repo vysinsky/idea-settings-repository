@@ -28,6 +28,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
