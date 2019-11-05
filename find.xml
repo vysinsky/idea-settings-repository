@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Assets/Scripts'" />
-    <option name="defaultScopeName" value="Directory '.../Assets/Scripts'" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Assets/Scripts'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,8 +18,8 @@
     <mask>*.tpl</mask>
     <mask>*.css</mask>
     <mask>package.json</mask>
-    <mask>*.js</mask>
     <mask>backstop.js</mask>
     <mask>*.md</mask>
+    <mask>*.js</mask>
   </component>
 </application>
