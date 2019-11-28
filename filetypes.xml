@@ -4,6 +4,7 @@
       <mapping ext="database" type="Dockerfile" />
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="subsplit" type="Dockerfile" />
+      <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
       <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
