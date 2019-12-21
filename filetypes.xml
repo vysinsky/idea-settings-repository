@@ -19,7 +19,7 @@
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
