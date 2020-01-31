@@ -262,10 +262,8 @@
   </Objective-C-extensions>
   <OracleCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
-    <option name="ALIAS_CASE" value="0" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
