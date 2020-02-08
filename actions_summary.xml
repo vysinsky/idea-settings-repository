@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Delete">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581177108468" />
+              <option name="times" value="10" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
@@ -37,8 +45,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581176205470" />
-              <option name="times" value="15" />
+              <option name="last" value="1581176582551" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +69,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581176064486" />
-              <option name="times" value="57" />
+              <option name="last" value="1581176624601" />
+              <option name="times" value="58" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,16 +125,16 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1581175526545" />
-              <option name="times" value="2" />
+              <option name="last" value="1581176584661" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581176062114" />
-              <option name="times" value="29" />
+              <option name="last" value="1581177066701" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +381,8 @@
         <entry key="RevealIn">
           <value>
             <ActionSummary>
-              <option name="last" value="1581067846208" />
-              <option name="times" value="1" />
+              <option name="last" value="1581177086587" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +429,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1581176290182" />
-              <option name="times" value="29" />
+              <option name="last" value="1581177212509" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
@@ -434,11 +442,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Tree-selectNextExtendSelection">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581177071588" />
+              <option name="times" value="44" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1581176299462" />
-              <option name="times" value="44" />
+              <option name="last" value="1581177213124" />
+              <option name="times" value="60" />
             </ActionSummary>
           </value>
         </entry>
@@ -450,11 +466,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Tree-selectPreviousExtendSelection">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581176604748" />
+              <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581176432835" />
-              <option name="times" value="9" />
+              <option name="last" value="1581176533522" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -514,6 +538,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581176533016" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
@@ -533,8 +565,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581176281599" />
-              <option name="times" value="4" />
+              <option name="last" value="1581176586006" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
