@@ -418,6 +418,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Synchronize">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581177259321" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
@@ -429,8 +437,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1581177212509" />
-              <option name="times" value="44" />
+              <option name="last" value="1581177257963" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +461,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1581177213124" />
-              <option name="times" value="60" />
+              <option name="last" value="1581177251664" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +517,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581066890842" />
-              <option name="times" value="1" />
+              <option name="last" value="1581177218778" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
