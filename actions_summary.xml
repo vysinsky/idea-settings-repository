@@ -37,8 +37,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581247963575" />
-              <option name="times" value="12" />
+              <option name="last" value="1581252804485" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +69,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581250291324" />
-              <option name="times" value="36" />
+              <option name="last" value="1581252813551" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252587372" />
-              <option name="times" value="202" />
+              <option name="last" value="1581252812698" />
+              <option name="times" value="207" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="EditorLineStartWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252580374" />
-              <option name="times" value="15" />
+              <option name="last" value="1581252798643" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252575408" />
-              <option name="times" value="89" />
+              <option name="last" value="1581252791915" />
+              <option name="times" value="90" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1581251994588" />
-              <option name="times" value="123" />
+              <option name="last" value="1581252802833" />
+              <option name="times" value="125" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581250371626" />
-              <option name="times" value="16" />
+              <option name="last" value="1581252817270" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581251030400" />
-              <option name="times" value="11" />
+              <option name="last" value="1581252800180" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
