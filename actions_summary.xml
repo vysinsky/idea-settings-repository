@@ -341,8 +341,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581315229193" />
-              <option name="times" value="10" />
+              <option name="last" value="1581319793027" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581080498426" />
-              <option name="times" value="2" />
+              <option name="last" value="1581319805133" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581315603114" />
-              <option name="times" value="4" />
+              <option name="last" value="1581319212134" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -686,6 +686,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581315099194" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581319802945" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -805,8 +813,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581080466147" />
-              <option name="times" value="1" />
+              <option name="last" value="1581319793965" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
