@@ -381,8 +381,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581335115289" />
-              <option name="times" value="20" />
+              <option name="last" value="1581335334109" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="Git.Rebase">
           <value>
             <ActionSummary>
-              <option name="last" value="1581080387530" />
-              <option name="times" value="2" />
+              <option name="last" value="1581335340342" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +597,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581334997658" />
-              <option name="times" value="40" />
+              <option name="last" value="1581335338402" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -698,11 +698,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Vcs.Force.Push">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581335351478" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581335153529" />
-              <option name="times" value="21" />
+              <option name="last" value="1581335349611" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,8 +725,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581335062733" />
-              <option name="times" value="11" />
+              <option name="last" value="1581335337147" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -757,8 +765,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581335000836" />
-              <option name="times" value="17" />
+              <option name="last" value="1581335332155" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +789,8 @@
         <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581335066870" />
-              <option name="times" value="2" />
+              <option name="last" value="1581335462458" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +813,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581334999942" />
-              <option name="times" value="36" />
+              <option name="last" value="1581335340308" />
+              <option name="times" value="37" />
             </ActionSummary>
           </value>
         </entry>
@@ -885,16 +893,24 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581327495282" />
-              <option name="times" value="53" />
+              <option name="last" value="1581335339838" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1581326242142" />
-              <option name="times" value="18" />
+              <option name="last" value="1581335340114" />
+              <option name="times" value="19" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.mac.touchbar.BuildUtils$5">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581335352639" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
