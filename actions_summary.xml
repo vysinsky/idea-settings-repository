@@ -37,8 +37,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581503736210" />
-              <option name="times" value="48" />
+              <option name="last" value="1581505199230" />
+              <option name="times" value="49" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504578164" />
-              <option name="times" value="65" />
+              <option name="last" value="1581505197705" />
+              <option name="times" value="67" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +133,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504963906" />
-              <option name="times" value="2048" />
+              <option name="last" value="1581505201800" />
+              <option name="times" value="2049" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499653986" />
-              <option name="times" value="32" />
+              <option name="last" value="1581505214655" />
+              <option name="times" value="33" />
             </ActionSummary>
           </value>
         </entry>
@@ -893,8 +893,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581497010176" />
-              <option name="times" value="33" />
+              <option name="last" value="1581505209915" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -1197,8 +1197,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581496630310" />
-              <option name="times" value="7" />
+              <option name="last" value="1581505218583" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
