@@ -33,6 +33,7 @@
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
+      <mapping ext="server" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
