@@ -205,8 +205,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507476283" />
-              <option name="times" value="569" />
+              <option name="last" value="1581521879134" />
+              <option name="times" value="570" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505099708" />
-              <option name="times" value="84" />
+              <option name="last" value="1581521898329" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -757,16 +757,16 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581512725032" />
-              <option name="times" value="1040" />
+              <option name="last" value="1581521900337" />
+              <option name="times" value="1041" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581511059804" />
-              <option name="times" value="63" />
+              <option name="last" value="1581521769500" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581508725689" />
-              <option name="times" value="26" />
+              <option name="last" value="1581521758563" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
@@ -1053,8 +1053,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581508786199" />
-              <option name="times" value="55" />
+              <option name="last" value="1581521773173" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
@@ -1093,8 +1093,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507205342" />
-              <option name="times" value="84" />
+              <option name="last" value="1581521774500" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
