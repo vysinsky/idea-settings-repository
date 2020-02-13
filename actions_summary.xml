@@ -165,8 +165,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507637989" />
-              <option name="times" value="104" />
+              <option name="last" value="1581595073745" />
+              <option name="times" value="105" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581512693656" />
-              <option name="times" value="43" />
+              <option name="last" value="1581594284524" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521898329" />
-              <option name="times" value="86" />
+              <option name="last" value="1581595056304" />
+              <option name="times" value="87" />
             </ActionSummary>
           </value>
         </entry>
@@ -765,8 +765,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521769500" />
-              <option name="times" value="64" />
+              <option name="last" value="1581595035968" />
+              <option name="times" value="66" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,8 +837,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1581508796455" />
-              <option name="times" value="265" />
+              <option name="last" value="1581595049037" />
+              <option name="times" value="269" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1581508796271" />
-              <option name="times" value="344" />
+              <option name="last" value="1581595045255" />
+              <option name="times" value="345" />
             </ActionSummary>
           </value>
         </entry>
@@ -917,8 +917,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581511072407" />
-              <option name="times" value="22" />
+              <option name="last" value="1581594286748" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521758563" />
-              <option name="times" value="27" />
+              <option name="last" value="1581595037862" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -1005,8 +1005,8 @@
         <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
           <value>
             <ActionSummary>
-              <option name="last" value="1581315099194" />
-              <option name="times" value="1" />
+              <option name="last" value="1581594219107" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -1029,8 +1029,8 @@
         <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581508771234" />
-              <option name="times" value="4" />
+              <option name="last" value="1581594384451" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1053,8 +1053,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521773173" />
-              <option name="times" value="56" />
+              <option name="last" value="1581595036981" />
+              <option name="times" value="58" />
             </ActionSummary>
           </value>
         </entry>
@@ -1069,8 +1069,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581315083989" />
-              <option name="times" value="2" />
+              <option name="last" value="1581594186088" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -1101,8 +1101,8 @@
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
           <value>
             <ActionSummary>
-              <option name="last" value="1581315098413" />
-              <option name="times" value="3" />
+              <option name="last" value="1581594218250" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1213,8 +1213,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581511071291" />
-              <option name="times" value="10" />
+              <option name="last" value="1581594282308" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
