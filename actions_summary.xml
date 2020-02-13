@@ -69,8 +69,8 @@
         <entry key="ChangesView.Refresh">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599382336" />
-              <option name="times" value="12" />
+              <option name="last" value="1581599450731" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599379495" />
-              <option name="times" value="70" />
+              <option name="last" value="1581599447507" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="EditorPreviousWordWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599395764" />
-              <option name="times" value="301" />
+              <option name="last" value="1581599455561" />
+              <option name="times" value="302" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599390594" />
-              <option name="times" value="46" />
+              <option name="last" value="1581599452408" />
+              <option name="times" value="47" />
             </ActionSummary>
           </value>
         </entry>
@@ -765,8 +765,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581595035968" />
-              <option name="times" value="66" />
+              <option name="last" value="1581599432974" />
+              <option name="times" value="67" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,8 +901,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599419737" />
-              <option name="times" value="40" />
+              <option name="last" value="1581599444914" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -917,8 +917,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599305650" />
-              <option name="times" value="25" />
+              <option name="last" value="1581599441141" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581595037862" />
-              <option name="times" value="29" />
+              <option name="last" value="1581599426423" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -1053,16 +1053,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599297617" />
-              <option name="times" value="59" />
+              <option name="last" value="1581599435450" />
+              <option name="times" value="60" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599421805" />
-              <option name="times" value="7" />
+              <option name="last" value="1581599447193" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
