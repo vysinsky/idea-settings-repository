@@ -37,8 +37,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599392776" />
-              <option name="times" value="53" />
+              <option name="last" value="1581599589600" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,16 +69,16 @@
         <entry key="ChangesView.Refresh">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599450731" />
-              <option name="times" value="14" />
+              <option name="last" value="1581599557827" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ChangesView.Revert">
           <value>
             <ActionSummary>
-              <option name="last" value="1581321707192" />
-              <option name="times" value="1" />
+              <option name="last" value="1581599597082" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +133,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599364511" />
-              <option name="times" value="2111" />
+              <option name="last" value="1581599589766" />
+              <option name="times" value="2112" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="EditorPreviousWordWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599455561" />
-              <option name="times" value="302" />
+              <option name="last" value="1581599616038" />
+              <option name="times" value="303" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599452408" />
-              <option name="times" value="47" />
+              <option name="last" value="1581599513579" />
+              <option name="times" value="49" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +829,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1581508734891" />
-              <option name="times" value="4" />
+              <option name="last" value="1581599508641" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,8 +901,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599469782" />
-              <option name="times" value="42" />
+              <option name="last" value="1581599621265" />
+              <option name="times" value="43" />
             </ActionSummary>
           </value>
         </entry>
@@ -917,8 +917,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599441141" />
-              <option name="times" value="26" />
+              <option name="last" value="1581599607872" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599468204" />
-              <option name="times" value="31" />
+              <option name="last" value="1581599485006" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -1077,8 +1077,8 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesTree$MyToggleSelectionAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581452755267" />
-              <option name="times" value="17" />
+              <option name="last" value="1581599609133" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -1189,8 +1189,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581508737922" />
-              <option name="times" value="1" />
+              <option name="last" value="1581599509808" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -1213,8 +1213,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581594282308" />
-              <option name="times" value="11" />
+              <option name="last" value="1581599511423" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
