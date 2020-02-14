@@ -173,8 +173,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581680740969" />
-              <option name="times" value="109" />
+              <option name="last" value="1581691417944" />
+              <option name="times" value="110" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +301,8 @@
         <entry key="EditorNextWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1581680037407" />
-              <option name="times" value="42" />
+              <option name="last" value="1581691443276" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="EditorPreviousWordWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581680770913" />
-              <option name="times" value="306" />
+              <option name="last" value="1581691446833" />
+              <option name="times" value="321" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,8 +493,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581681327289" />
-              <option name="times" value="91" />
+              <option name="last" value="1581691404570" />
+              <option name="times" value="92" />
             </ActionSummary>
           </value>
         </entry>
@@ -845,8 +845,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1581680912041" />
-              <option name="times" value="281" />
+              <option name="last" value="1581691459807" />
+              <option name="times" value="286" />
             </ActionSummary>
           </value>
         </entry>
@@ -869,8 +869,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1581680915683" />
-              <option name="times" value="362" />
+              <option name="last" value="1581691455430" />
+              <option name="times" value="364" />
             </ActionSummary>
           </value>
         </entry>
@@ -930,6 +930,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="WelcomeScreen.OpenDirectoryProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581690399434" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="WelcomeScreen.Update">
           <value>
             <ActionSummary>
@@ -981,8 +989,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672631167" />
-              <option name="times" value="37" />
+              <option name="last" value="1581691261619" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -1101,8 +1109,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581680909731" />
-              <option name="times" value="94" />
+              <option name="last" value="1581691336570" />
+              <option name="times" value="96" />
             </ActionSummary>
           </value>
         </entry>
