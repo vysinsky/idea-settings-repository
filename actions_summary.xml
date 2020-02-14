@@ -93,8 +93,8 @@
         <entry key="CloseContent">
           <value>
             <ActionSummary>
-              <option name="last" value="1581680787980" />
-              <option name="times" value="25" />
+              <option name="last" value="1581707813006" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,8 +717,8 @@
         <entry key="RenameElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679989890" />
-              <option name="times" value="39" />
+              <option name="last" value="1581707783916" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -938,6 +938,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="WelcomeScreen.OpenSelected">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581707763932" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="WelcomeScreen.Update">
           <value>
             <ActionSummary>
@@ -1053,16 +1061,16 @@
         <entry key="com.intellij.notification.NotificationAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581489016967" />
-              <option name="times" value="2" />
+              <option name="last" value="1581707790650" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581688989611" />
-              <option name="times" value="117" />
+              <option name="last" value="1581707813440" />
+              <option name="times" value="126" />
             </ActionSummary>
           </value>
         </entry>
@@ -1165,8 +1173,8 @@
         <entry key="com.intellij.ui.CommonActionsPanel$EditButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1581496396167" />
-              <option name="times" value="2" />
+              <option name="last" value="1581707795723" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
