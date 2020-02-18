@@ -37,8 +37,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581951957840" />
-              <option name="times" value="77" />
+              <option name="last" value="1582017167615" />
+              <option name="times" value="78" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581949316887" />
-              <option name="times" value="7" />
+              <option name="last" value="1582019556307" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581953075684" />
-              <option name="times" value="114" />
+              <option name="last" value="1582017165767" />
+              <option name="times" value="115" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017165169" />
-              <option name="times" value="2641" />
+              <option name="last" value="1582017169559" />
+              <option name="times" value="2643" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017126075" />
-              <option name="times" value="122" />
+              <option name="last" value="1582019565091" />
+              <option name="times" value="123" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017113829" />
-              <option name="times" value="107" />
+              <option name="last" value="1582019198899" />
+              <option name="times" value="110" />
             </ActionSummary>
           </value>
         </entry>
@@ -885,8 +885,8 @@
         <entry key="ToggleBookmark">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017136330" />
-              <option name="times" value="1" />
+              <option name="last" value="1582017180377" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -925,8 +925,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1581953093406" />
-              <option name="times" value="404" />
+              <option name="last" value="1582019567392" />
+              <option name="times" value="411" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581953082498" />
-              <option name="times" value="70" />
+              <option name="last" value="1582017175930" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
@@ -1077,8 +1077,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017116498" />
-              <option name="times" value="52" />
+              <option name="last" value="1582019200576" />
+              <option name="times" value="53" />
             </ActionSummary>
           </value>
         </entry>
@@ -1157,8 +1157,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017114885" />
-              <option name="times" value="96" />
+              <option name="last" value="1582019199793" />
+              <option name="times" value="98" />
             </ActionSummary>
           </value>
         </entry>
@@ -1197,8 +1197,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017119757" />
-              <option name="times" value="146" />
+              <option name="last" value="1582017175010" />
+              <option name="times" value="148" />
             </ActionSummary>
           </value>
         </entry>
