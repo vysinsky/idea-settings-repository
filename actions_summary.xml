@@ -37,8 +37,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021578987" />
-              <option name="times" value="82" />
+              <option name="last" value="1582025464941" />
+              <option name="times" value="85" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021577148" />
-              <option name="times" value="120" />
+              <option name="last" value="1582025454269" />
+              <option name="times" value="123" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582025399444" />
-              <option name="times" value="2659" />
+              <option name="last" value="1582027736324" />
+              <option name="times" value="2663" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1582022370444" />
-              <option name="times" value="123" />
+              <option name="last" value="1582027782870" />
+              <option name="times" value="126" />
             </ActionSummary>
           </value>
         </entry>
@@ -989,8 +989,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021584424" />
-              <option name="times" value="78" />
+              <option name="last" value="1582025477330" />
+              <option name="times" value="80" />
             </ActionSummary>
           </value>
         </entry>
@@ -1005,8 +1005,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021536191" />
-              <option name="times" value="45" />
+              <option name="last" value="1582027759157" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -1093,8 +1093,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582025347096" />
-              <option name="times" value="61" />
+              <option name="last" value="1582027742451" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
@@ -1173,8 +1173,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582022371535" />
-              <option name="times" value="109" />
+              <option name="last" value="1582027737577" />
+              <option name="times" value="110" />
             </ActionSummary>
           </value>
         </entry>
