@@ -181,8 +181,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021493612" />
-              <option name="times" value="127" />
+              <option name="last" value="1582022226455" />
+              <option name="times" value="128" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021545653" />
-              <option name="times" value="235" />
+              <option name="last" value="1582022223704" />
+              <option name="times" value="237" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021509258" />
-              <option name="times" value="15" />
+              <option name="last" value="1582022223476" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021474020" />
-              <option name="times" value="120" />
+              <option name="last" value="1582022228816" />
+              <option name="times" value="121" />
             </ActionSummary>
           </value>
         </entry>
@@ -1061,8 +1061,8 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021516611" />
-              <option name="times" value="22" />
+              <option name="last" value="1582022224556" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -1093,8 +1093,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021476057" />
-              <option name="times" value="57" />
+              <option name="last" value="1582022207145" />
+              <option name="times" value="58" />
             </ActionSummary>
           </value>
         </entry>
