@@ -37,8 +37,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021426980" />
-              <option name="times" value="81" />
+              <option name="last" value="1582021578987" />
+              <option name="times" value="82" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021546540" />
-              <option name="times" value="119" />
+              <option name="last" value="1582021577148" />
+              <option name="times" value="120" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021264485" />
-              <option name="times" value="367" />
+              <option name="last" value="1582021581900" />
+              <option name="times" value="368" />
             </ActionSummary>
           </value>
         </entry>
@@ -989,8 +989,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021549955" />
-              <option name="times" value="77" />
+              <option name="last" value="1582021584424" />
+              <option name="times" value="78" />
             </ActionSummary>
           </value>
         </entry>
@@ -1301,8 +1301,8 @@
         <entry key="com.intellij.ui.mac.touchbar.BuildUtils$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021551188" />
-              <option name="times" value="9" />
+              <option name="last" value="1582021585344" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
