@@ -570,6 +570,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="InvalidateCaches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582098337314" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="JumpToLastChange">
           <value>
             <ActionSummary>
@@ -941,8 +949,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582098226407" />
-              <option name="times" value="341" />
+              <option name="last" value="1582098327750" />
+              <option name="times" value="342" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +973,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1582098223915" />
-              <option name="times" value="461" />
+              <option name="last" value="1582098328915" />
+              <option name="times" value="462" />
             </ActionSummary>
           </value>
         </entry>
@@ -1037,8 +1045,8 @@
         <entry key="WelcomeScreen.OpenDirectoryProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581707818600" />
-              <option name="times" value="2" />
+              <option name="last" value="1582098317279" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,8 +1125,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582098185659" />
-              <option name="times" value="68" />
+              <option name="last" value="1582098361608" />
+              <option name="times" value="69" />
             </ActionSummary>
           </value>
         </entry>
