@@ -501,8 +501,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037549825" />
-              <option name="times" value="79" />
+              <option name="last" value="1582098219212" />
+              <option name="times" value="81" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +941,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582036796427" />
-              <option name="times" value="338" />
+              <option name="last" value="1582098226407" />
+              <option name="times" value="341" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +965,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037396849" />
-              <option name="times" value="457" />
+              <option name="last" value="1582098223915" />
+              <option name="times" value="461" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,8 +1117,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037034784" />
-              <option name="times" value="67" />
+              <option name="last" value="1582098185659" />
+              <option name="times" value="68" />
             </ActionSummary>
           </value>
         </entry>
