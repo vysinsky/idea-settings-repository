@@ -109,8 +109,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107434825" />
-              <option name="times" value="133" />
+              <option name="last" value="1582109312545" />
+              <option name="times" value="134" />
             </ActionSummary>
           </value>
         </entry>
@@ -909,8 +909,8 @@
         <entry key="Stop">
           <value>
             <ActionSummary>
-              <option name="last" value="1582100186472" />
-              <option name="times" value="20" />
+              <option name="last" value="1582118017904" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -957,8 +957,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582105288701" />
-              <option name="times" value="354" />
+              <option name="last" value="1582118651880" />
+              <option name="times" value="358" />
             </ActionSummary>
           </value>
         </entry>
@@ -981,8 +981,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1582105288229" />
-              <option name="times" value="469" />
+              <option name="last" value="1582118649220" />
+              <option name="times" value="472" />
             </ActionSummary>
           </value>
         </entry>
@@ -1029,8 +1029,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037952258" />
-              <option name="times" value="89" />
+              <option name="last" value="1582109325069" />
+              <option name="times" value="90" />
             </ActionSummary>
           </value>
         </entry>
@@ -1045,8 +1045,8 @@
         <entry key="Vcs.ToggleAmendCommitMode">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037922320" />
-              <option name="times" value="26" />
+              <option name="last" value="1582109316270" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
