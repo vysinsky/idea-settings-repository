@@ -293,16 +293,16 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582198409928" />
-              <option name="times" value="1188" />
+              <option name="last" value="1582198677927" />
+              <option name="times" value="1190" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorLeftWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125649368" />
-              <option name="times" value="140" />
+              <option name="last" value="1582198669477" />
+              <option name="times" value="142" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,16 +317,16 @@
         <entry key="EditorLineEndWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582192080136" />
-              <option name="times" value="108" />
+              <option name="last" value="1582198669028" />
+              <option name="times" value="109" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125173835" />
-              <option name="times" value="223" />
+              <option name="last" value="1582198679168" />
+              <option name="times" value="226" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,8 +357,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582192083631" />
-              <option name="times" value="286" />
+              <option name="last" value="1582198747420" />
+              <option name="times" value="287" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="EditorRightWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106987648" />
-              <option name="times" value="157" />
+              <option name="last" value="1582198563087" />
+              <option name="times" value="161" />
             </ActionSummary>
           </value>
         </entry>
@@ -613,8 +613,8 @@
         <entry key="MarkExcludeRoot">
           <value>
             <ActionSummary>
-              <option name="last" value="1582098403199" />
-              <option name="times" value="3" />
+              <option name="last" value="1582198732029" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,16 +709,16 @@
         <entry key="NewElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1582122749435" />
-              <option name="times" value="79" />
+              <option name="last" value="1582198734242" />
+              <option name="times" value="80" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="NewFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582122750335" />
-              <option name="times" value="34" />
+              <option name="last" value="1582198735494" />
+              <option name="times" value="35" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,8 +853,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582198303272" />
-              <option name="times" value="1339" />
+              <option name="last" value="1582198748422" />
+              <option name="times" value="1341" />
             </ActionSummary>
           </value>
         </entry>
@@ -1079,6 +1079,14 @@
             <ActionSummary>
               <option name="last" value="1582032541724" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diff.actions.ProxyUndoRedoAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582198676650" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
