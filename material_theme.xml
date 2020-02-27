@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -10,10 +13,10 @@
     <option name="useMaterialFont2" value="true" />
     <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="42" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="1cd33f31:164454a187d:-8000" />
-    <option name="version" value="4.13.1" />
+    <option name="version" value="5.1.0" />
   </component>
 </application>
