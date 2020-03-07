@@ -4,6 +4,7 @@
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="database" type="Dockerfile" />
       <mapping ext="subsplit" type="Dockerfile" />
+      <mapping pattern=".gitlab" type="PLAIN_TEXT" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
       <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
