@@ -151,6 +151,11 @@
       <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="40e3daaf-1bf7-4202-be03-5b89dbe8842f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
       <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="643ebd45-b837-4974-b293-18f70dc6dcc5" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
       <sshConfig authType="OPEN_SSH" host="vps" id="6c4ba01b-661b-47d2-afb8-a326f07f66cc" port="22" />
+      <sshConfig host="horokolo.cz" id="926bdfb2-47e1-4da3-b940-03e7ba1d273d" keyPath="$USER_HOME$/.ssh/vps_rsa" port="22" />
+      <sshConfig authType="OPEN_SSH" host="vps" id="e3fac085-b470-4ad0-9ec6-4f6c163b6ed4" port="22" />
+      <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="f2464945-dc3e-481f-a90f-d6888487bcbc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
+      <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="515e46fa-c6ef-4636-b257-2c4579741271" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
+      <sshConfig authType="OPEN_SSH" host="vps" id="04a13e7a-56a8-4c3d-9b73-d9cbeabc8ac7" port="22" />
     </configs>
   </component>
 </application>
