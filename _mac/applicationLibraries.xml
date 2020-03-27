@@ -89,6 +89,21 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="jquery-ui" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jqueryui_1.11.2_themes_smoothness_jquery-ui.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jqueryui_1.11.2_themes_smoothness_jquery-ui.css" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="mocha-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
