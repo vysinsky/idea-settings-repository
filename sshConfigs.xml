@@ -1,0 +1,11 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="horokolo.cz" id="10d8f0c2-4332-4656-b51f-3a09c07be31d" keyPath="$USER_HOME$/.ssh/vps_rsa" port="22" />
+      <sshConfig authType="OPEN_SSH" host="vps" id="6b7b49b8-8cf0-4e34-93d1-1c299480e969" port="22" />
+      <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="c07b0747-632d-463e-9a1e-7ee8365091e4" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
+      <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="927c0e25-6112-4f9b-9b5b-4552aacff2d4" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
+      <sshConfig authType="OPEN_SSH" host="vps" id="c9a258e4-025a-48b6-806c-309e4aff7650" port="22" />
+    </configs>
+  </component>
+</application>
