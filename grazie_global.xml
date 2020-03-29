@@ -1,6 +1,9 @@
 <application>
   <component name="GraziConfig">
     <option name="nativeLanguage" value="English (GB)" />
+    <option name="enabledProgrammingLanguages">
+      <set />
+    </option>
     <option name="enabledCommitIntegration" value="true" />
     <option name="userEnabledRules">
       <set>
@@ -267,6 +270,6 @@
         <option value="in_excess_of" />
       </set>
     </option>
-    <option name="lastSeenVersion" value="2019.3-6.2.stable" />
+    <option name="version" value="1" />
   </component>
 </application>
