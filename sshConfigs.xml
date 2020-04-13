@@ -181,6 +181,16 @@
       <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="e6130db0-2784-4919-a879-ba5b3e67e6f6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
       <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="fa32a9e2-60f1-4d86-8dc5-6ca24571cabc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
       <sshConfig authType="OPEN_SSH" host="vps" id="c57df63f-536b-466b-907a-31fbfcec5520" port="22" />
+      <sshConfig host="horokolo.cz" id="7635f29c-462b-454c-aa5c-cde1577447ec" keyPath="$USER_HOME$/.ssh/vps_rsa" port="22" />
+      <sshConfig authType="OPEN_SSH" host="vps" id="169920ca-b0bc-4539-b1b9-146b856c1272" port="22" />
+      <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="c2624660-929c-4782-a93c-8e1ea1823599" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
+      <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="95f38cae-5df8-473c-9bdb-d4f862567854" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" />
+      <sshConfig authType="OPEN_SSH" host="vps" id="1f225858-7c38-411d-8cb4-d88370ae3f0c" port="22" />
+      <sshConfig host="horokolo.cz" id="b3fb9885-793b-431b-8591-27a69b6b3219" keyPath="$USER_HOME$/.ssh/vps_rsa" port="22" customName="Horokolo" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="vps" id="79fb0669-601e-450d-af53-29ba910bf32a" port="22" customName="VPS" nameFormat="CUSTOM" />
+      <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="c47c89d0-6ef7-4f55-b4ea-0b8719eaa8d1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Dixons Dev gate01 CurrysIE" nameFormat="CUSTOM" />
+      <sshConfig host="gate01.svc.common.dev.l01.dsg-i.com" id="5aeddf87-2899-4473-8763-ff50b1701948" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Dixons Dev gate01 PCWorld" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="vps" id="a2b2b055-671c-4244-90f0-7ecf9b2eaaad" port="22" customName="VPS-sklep" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
