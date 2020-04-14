@@ -190,11 +190,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_tachyons@4.10.0_css_tachyons.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_tachyons_css_tachyons.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tachyons@4.10.0_css_tachyons.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_tachyons@4.10.0_css_tachyons.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_tachyons_css_tachyons.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tachyons@4.10.0_css_tachyons.css" />
       </CLASSES>
       <SOURCES />
     </library>
