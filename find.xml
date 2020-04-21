@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Assets/Scripts/Systems/TestSystem.cs'" />
-    <option name="defaultScopeName" value="File '.../Assets/Scripts/Systems/TestSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Assets/Scripts/Systems/TestSystem.cs'" />
+    <option name="customScope" value="File '.../Assets/Scripts/Systems/LifeTimeDecreaseSystem.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/Scripts/Systems/LifeTimeDecreaseSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/Scripts/Systems/LifeTimeDecreaseSystem.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
