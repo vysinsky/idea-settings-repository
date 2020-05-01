@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../Assets/Scripts/Systems/FadeAccordingToLifetimeSystem.cs'" />
-    <option name="defaultScopeName" value="File '.../Assets/Scripts/Systems/FadeAccordingToLifetimeSystem.cs'" />
+    <option name="customScope" value="File '.../Assets/Scripts/Systems/MoveEntityToTarget.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/Scripts/Systems/MoveEntityToTarget.cs'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../Assets/Scripts/Systems/FadeAccordingToLifetimeSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/Scripts/Systems/MoveEntityToTarget.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
