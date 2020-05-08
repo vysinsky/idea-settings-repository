@@ -7,7 +7,6 @@
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
       <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="DB_USER" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
@@ -22,6 +21,7 @@
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".bundle" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlconfig.dist" type="PLAIN_TEXT" />
@@ -37,9 +37,9 @@
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
