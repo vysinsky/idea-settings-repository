@@ -22,8 +22,8 @@
       <mapping pattern="DB_USER" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="secrets/DB_USER" type="PLAIN_TEXT" />
+      <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlconfig.dist" type="PLAIN_TEXT" />
@@ -36,8 +36,8 @@
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".adr-dir" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
