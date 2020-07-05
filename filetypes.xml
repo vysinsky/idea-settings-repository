@@ -5,8 +5,8 @@
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="database" type="Dockerfile" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
       <mapping pattern="DB_PASS" type="PLAIN_TEXT" />
