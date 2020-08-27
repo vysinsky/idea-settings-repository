@@ -1,0 +1,13 @@
+<application>
+  <component name="consul-hosts">
+    <option name="consulConfigurationList">
+      <list>
+        <PersistedConsulConfiguration>
+          <option name="host" value="consul.dsg-i.com" />
+          <option name="port" value="443" />
+        </PersistedConsulConfiguration>
+      </list>
+    </option>
+    <option name="remoteConsulTreeRefreshInterval" value="600" />
+  </component>
+</application>
