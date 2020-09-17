@@ -4,7 +4,7 @@
     <property name="created">2016-09-22T08:27:27</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2020-09-16T09:42:07</property>
+    <property name="modified">2020-09-17T13:15:32</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -1069,22 +1069,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fdf7d7" />
+        <option name="BACKGROUND" value="fdf7cf" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f4f7dc" />
+        <option name="BACKGROUND" value="eef7d7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fdeee5" />
+        <option name="BACKGROUND" value="fde8e6" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f1f5e4" />
+        <option name="BACKGROUND" value="e8f5e4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
