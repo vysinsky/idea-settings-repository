@@ -18,14 +18,14 @@
       <mapping pattern="admin_counted" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
-      <mapping pattern=".env.build" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.build" type="PLAIN_TEXT" />
       <mapping pattern="DB_USER" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="inventory" type="PLAIN_TEXT" />
-      <mapping pattern="secrets/DB_USER" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
+      <mapping pattern="secrets/DB_USER" type="PLAIN_TEXT" />
+      <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlconfig.dist" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
