@@ -314,9 +314,13 @@
           <option name="url" value="git@gitlab.dsg-i.com:tech-team/consul-kv-provisioning/consul-kv-infra.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.dsg-i.com:inspiration/micro-frontends/content-renderer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/inspiration/micro-frontends" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
