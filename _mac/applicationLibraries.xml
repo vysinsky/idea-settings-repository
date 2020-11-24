@@ -56,6 +56,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="all" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_font-awesome_5.12.1_css_all.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_font-awesome_5.12.1_css_all.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="babel" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -86,6 +97,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_expect_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="fonts" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cloud.typography.com_735596_652002_css_fonts.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cloud.typography.com_735596_652002_css_fonts.css" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -193,6 +215,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_semantic-ui@2.4.2_dist_semantic.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="solid" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_font-awesome_5.12.1_css_solid.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_font-awesome_5.12.1_css_solid.css" />
       </CLASSES>
       <SOURCES />
     </library>
