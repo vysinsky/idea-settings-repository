@@ -1,0 +1,6 @@
+<templateSet group="Markdown">
+  <template name=".abbreviation" value="*[$ABBR$]: $TEXT$&#10;$END$" description="Abbreviation *[]:" toReformat="false" toShortenFQNames="false">
+    <variable name="ABBR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

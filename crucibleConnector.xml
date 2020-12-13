@@ -1,0 +1,6 @@
+<application>
+  <component name="CrucibleSettings">
+    <option name="SERVER_URL" value="https://gitlab.dsg-i.com" />
+    <option name="USERNAME" value="vysinm01" />
+  </component>
+</application>
