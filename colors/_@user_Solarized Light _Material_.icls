@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Solarized Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Solarized Light (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-09-16T12:43:56</property>
+    <property name="created">2021-01-12T09:09:11</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2021-01-12T09:57:56</property>
-    <property name="originalScheme">Material Solarized Light</property>
+    <property name="ideVersion">2020.3.1.0.0</property>
+    <property name="modified">2021-01-12T09:57:57</property>
+    <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -33,6 +33,15 @@
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="DELETED_LINES_COLOR" value="d30102" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="d33682" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="657b83" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="b58900" />
+    <option name="DIAGRAM_INNER_EDGE" value="859900" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="fdf6e3" />
+    <option name="DIAGRAM_NODE_HEADER" value="cac5b6" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="fdf6e3" />
+    <option name="DIAGRAM_NOTE_BORDER" value="657b83" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="cb4b16" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
     <option name="DOCUMENTATION_COLOR" value="f4eddb" />
@@ -1996,6 +2005,7 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.ANCHOR" baseAttributes="MARKDOWN_NAVIGATOR.INLINE_HTML" />
     <option name="MARKDOWN_NAVIGATOR.ANCHOR_ID">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -2222,6 +2232,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.MAIL_LINK" baseAttributes="MARKDOWN_NAVIGATOR.AUTO_LINK" />
     <option name="MARKDOWN_NAVIGATOR.ORDERED_LIST">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -2233,6 +2244,7 @@
         <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.REFERENCE" baseAttributes="MARKDOWN_NAVIGATOR.FOOTNOTE" />
     <option name="MARKDOWN_NAVIGATOR.REFERENCE_ANCHOR">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -2245,6 +2257,7 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.REFERENCE_LINK_REF" baseAttributes="MARKDOWN_NAVIGATOR.AUTO_LINK" />
     <option name="MARKDOWN_NAVIGATOR.REFERENCE_TEXT">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -2603,6 +2616,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -2659,6 +2673,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -2715,6 +2730,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -2764,6 +2780,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -2813,6 +2830,8 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_EVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_ODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_ROW_ODD" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
@@ -2826,6 +2845,8 @@
         <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_EVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_ODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD" />
     <option name="MARKDOWN_NAVIGATOR.TASK_DONE_ITEM_MARKER">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -3481,7 +3502,11 @@
       </value>
     </option>
     <option name="RUNTIME_ERROR">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="Rainbow Parens Level 1 (outermost)">
       <value>
