@@ -1247,8 +1247,9 @@
         <entry key="*.markdown">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
-              <option name="myPluginName" value="Markdown Navigator Enhanced" />
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1264,8 +1265,9 @@
         <entry key="*.md">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
-              <option name="myPluginName" value="Markdown Navigator Enhanced" />
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1711,6 +1713,7 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.properties" />
               <option name="myPluginName" value="Properties" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1809,6 +1812,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rst">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.rest" />
+              <option name="myPluginName" value="ReStructuredText" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1971,6 +1983,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.stylus" />
               <option name="myPluginName" value="Stylus" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
