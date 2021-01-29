@@ -4,7 +4,6 @@
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="database" type="Dockerfile" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
@@ -18,8 +17,8 @@
       <mapping pattern="admin_counted" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
-      <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.build" type="PLAIN_TEXT" />
+      <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="DB_USER" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
