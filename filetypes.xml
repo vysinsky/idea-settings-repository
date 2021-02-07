@@ -17,8 +17,8 @@
       <mapping pattern="admin_counted" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Internationalization.md" type="PLAIN_TEXT" />
-      <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.build" type="PLAIN_TEXT" />
+      <mapping pattern=".rsync_ignore" type="PLAIN_TEXT" />
       <mapping pattern="DB_USER" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
