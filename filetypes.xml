@@ -5,8 +5,8 @@
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="database" type="Dockerfile" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
       <mapping pattern="DB_PASS" type="PLAIN_TEXT" />
@@ -23,8 +23,8 @@
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="secrets/DB_USER" type="PLAIN_TEXT" />
-      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlconfig.dist" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
@@ -37,8 +37,8 @@
       <mapping pattern=".adr-dir" type="PLAIN_TEXT" />
       <mapping ext="jsono" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping pattern=".appdrc" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
