@@ -22,8 +22,8 @@
       <mapping pattern="DB_USER" type="PLAIN_TEXT" />
       <mapping pattern="-n" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern="secrets/DB_USER" type="PLAIN_TEXT" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlconfig.dist" type="PLAIN_TEXT" />
