@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="base" type="Dockerfile" />
-      <mapping ext="subsplit" type="Dockerfile" />
-      <mapping ext="database" type="Dockerfile" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
@@ -37,8 +34,8 @@
       <mapping pattern=".adr-dir" type="PLAIN_TEXT" />
       <mapping ext="jsono" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping pattern=".appdrc" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -48,6 +45,9 @@
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="base" type="Dockerfile" />
+      <mapping ext="database" type="Dockerfile" />
+      <mapping ext="subsplit" type="Dockerfile" />
       <mapping pattern=".gitexcludes" type="Git file" />
       <mapping pattern="build" type="Bash" />
       <mapping pattern="test" type="Bash" />
