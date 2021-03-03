@@ -375,7 +375,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/work/inspiration/micro-frontends/container-application/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/work" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
