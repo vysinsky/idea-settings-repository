@@ -4,7 +4,7 @@
     <property name="created">2020-09-16T12:43:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2021-03-08T14:00:43</property>
+    <property name="modified">2021-03-09T09:57:26</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -197,7 +197,7 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="111111" />
