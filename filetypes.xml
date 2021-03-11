@@ -4,6 +4,7 @@
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="database" type="Dockerfile" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
