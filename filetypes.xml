@@ -11,8 +11,8 @@
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
       <mapping pattern="DB_PASS" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".ssh/config" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="admin_counted" type="PLAIN_TEXT" />
