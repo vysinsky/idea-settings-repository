@@ -4,7 +4,7 @@
     <property name="created">2021-01-12T09:09:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-04-20T07:54:07</property>
+    <property name="modified">2021-04-21T08:39:38</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -430,7 +430,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -455,11 +455,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
-    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -1288,7 +1288,7 @@
         <option name="FOREGROUND" value="986801" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARAMETER" baseAttributes="" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="50a14e" />
@@ -2403,7 +2403,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -2460,7 +2460,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -2517,7 +2517,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -2567,7 +2567,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -2617,8 +2617,8 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_EVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN" />
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_ODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_ROW_ODD" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_EVEN" baseAttributes="" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_ODD" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN">
       <value>
         <option name="BACKGROUND" value="e5e5e5" />
@@ -2632,8 +2632,8 @@
         <option name="BACKGROUND" value="e5e5e6" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_EVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN" />
-    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_ODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_EVEN" baseAttributes="" />
+    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_ODD" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.TASK_DONE_ITEM_MARKER">
       <value>
         <option name="FOREGROUND" value="50a14e" />
@@ -3661,7 +3661,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3689,7 +3689,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="e4564a" />
