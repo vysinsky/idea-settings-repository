@@ -374,6 +374,10 @@
           <option name="url" value="git@git.dsg-i.com:storemode/storemode-bos-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.dsg-i.com:prexa/upselling.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work" />
