@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="prod-proxy/Dockerfile" type="AUTO_DETECTED" />
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="subsplit" type="Dockerfile" />
       <mapping ext="database" type="Dockerfile" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
-      <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="deliveryTable" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern="ChevronRightAlternative.svg" type="PLAIN_TEXT" />
       <mapping pattern="DB_PASS" type="PLAIN_TEXT" />
@@ -38,6 +39,7 @@
       <mapping ext="jsono" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="gradle" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping pattern=".appdrc" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
