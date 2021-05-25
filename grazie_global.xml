@@ -1,9 +1,5 @@
 <application>
   <component name="GraziConfig">
-    <option name="nativeLanguage" value="English (GB)" />
-    <option name="enabledProgrammingLanguages">
-      <set />
-    </option>
     <option name="enabledCommitIntegration" value="true" />
     <option name="userEnabledRules">
       <set>
@@ -270,6 +266,10 @@
         <option value="in_excess_of" />
       </set>
     </option>
-    <option name="version" value="1" />
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInCommitMessagesEnabled" value="true" />
+      </CheckingContext>
+    </option>
   </component>
 </application>
