@@ -1,7 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myPasteOnMiddleMouseButton" value="false" />
-    <option name="myShellPath" value="cmd.exe" />
+    <option name="myShellPath" value="zsh" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
