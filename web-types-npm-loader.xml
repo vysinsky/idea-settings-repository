@@ -101,5 +101,6 @@
       <version value="0.16.2-3" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-0.16.2-3.tgz" />
       <version value="0.16.1-3" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-0.16.1-3.tgz" />
     </package>
+    <enabled />
   </component>
 </application>
