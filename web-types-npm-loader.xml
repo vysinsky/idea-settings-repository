@@ -101,6 +101,16 @@
       <version value="0.16.2-3" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-0.16.2-3.tgz" />
       <version value="0.16.1-3" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-0.16.1-3.tgz" />
     </package>
-    <enabled />
+    <enabled>
+      <package name="bootstrap-vue" />
+      <package name="quasar" />
+      <package name="quasar-framework" />
+      <package name="vue" />
+      <package name="vue-client-only" />
+      <package name="vue-no-ssr" />
+      <package name="vue-router" />
+      <package name="vuetify" />
+      <package name="@nuxt/vue-app" />
+    </enabled>
   </component>
 </application>
