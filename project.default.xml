@@ -1,0 +1,80 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings">
+        <pharPath>/usr/local/bin/composer</pharPath>
+        <phpPath>/usr/bin/php</phpPath>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="Git.Settings">
+        <option name="WARN_ABOUT_CRLF" value="false" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <option name="myLocal" value="true" />
+          <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="DESIGN" value="true" />
+            <option name="UNUSEDCODE" value="true" />
+            <option name="NAMING" value="true" />
+          </inspection_tool>
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="CODING_STANDARD" value="DotBlue" />
+            <option name="SHOW_SNIFF_NAMES" value="true" />
+          </inspection_tool>
+        </profile>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES5" />
+      </component>
+      <component name="MessDetectorProjectConfiguration">
+        <option name="selectedConfigurationId" value="DEFAULT_INTERPRETER" />
+      </component>
+      <component name="PHPCodeSnifferProjectConfiguration">
+        <option name="selectedConfigurationId" value="DEFAULT_INTERPRETER" />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state />
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="Configurable.PHP" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="last_opened_file_path" value="$USER_HOME$/www/contentking" />
+        <property name="settings.editor.selected.configurable" value="com.jetbrains.php.tools.quality.messDetector.MessDetectorConfigurable" />
+        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="js.eslint.nodeInterpreter" value="/usr/bin/node" />
+        <property name="js.eslint.eslintPackage" value="" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="myTodoPanelSettings">
+          <TodoPanelSettings />
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>

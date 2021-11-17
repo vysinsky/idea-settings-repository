@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Markdown/Links/Change link to reference" />
+    <ignoreAction name="Markdown/HTML/Change Markdown to HTML" />
+    <ignoreAction name="Markdown/Links/Change link to text" />
+  </component>
+</application>

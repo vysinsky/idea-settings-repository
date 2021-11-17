@@ -1,0 +1,9 @@
+<application>
+  <component name="Markdown Navigator Enhanced">
+    <DiagnosticSettings isTrackReports="true" isCheckFixes="true">
+      <diagnostics>
+        <diagnosticEntry id="3616" isFixed="true" fixedVersion="2.8.4.32" description="NullPointerException: MdProjectComponent$exportAllHtmlRaw" status="" isEap="true" />
+      </diagnostics>
+    </DiagnosticSettings>
+  </component>
+</application>
