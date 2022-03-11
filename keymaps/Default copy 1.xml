@@ -8,10 +8,14 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta plus" />
   </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
@@ -37,6 +41,7 @@
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
