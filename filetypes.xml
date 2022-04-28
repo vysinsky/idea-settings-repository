@@ -4,6 +4,7 @@
       <mapping pattern="CNAME" type="AUTO_DETECTED" />
       <mapping ext="ds" type="JavaScript" />
       <mapping ext="disabled" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
