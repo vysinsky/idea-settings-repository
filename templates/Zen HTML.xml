@@ -3,6 +3,8 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
     </context>
